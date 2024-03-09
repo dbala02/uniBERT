@@ -1,0 +1,174 @@
+-DOCSTART- O
+
+alpha B-1
+
+application B-1
+software I-1
+
+applications B-1
+
+assembly B-1
+language I-1
+
+backup B-1
+
+basic B-1
+input/output I-1
+system I-1
+
+BIOS B-1
+
+changeover B-1
+
+compilation B-1
+
+compilation B-1
+process I-1
+
+computer B-1
+
+computer B-1
+aided I-1
+design I-1
+
+computer B-1
+application I-1
+
+computer B-1
+applications I-1
+
+computer B-1
+control I-1
+
+computer B-1
+generated I-1
+
+computer B-1
+generated I-1
+animation I-1
+
+computer B-1
+system I-1
+
+computer B-1
+use I-1
+
+computers B-1
+
+contents B-1
+
+corrective B-1
+
+corrective B-1
+maintenance I-1
+
+cost B-1
+effective I-1
+
+create B-1
+solution I-1
+
+current B-1
+system I-1
+
+data B-1
+flow I-1
+
+design B-1
+evaluation I-1
+
+design B-1
+review I-1
+
+errors B-1
+
+executable B-1
+
+final B-1
+system I-1
+
+first B-1
+come I-1
+first I-1
+served I-1
+
+flow B-1
+
+flow B-1
+of I-1
+data I-1
+
+flowchart B-1
+
+flowcharts B-1
+
+further B-1
+development I-1
+
+input/output B-1
+
+input/output B-1
+system I-1
+
+interaction B-1
+
+intermediate B-1
+code I-1
+
+intermediate B-1
+language I-1
+
+invalid B-1
+idata I-1
+
+lost B-1
+data I-1
+
+maintainability B-1
+
+maintenance B-1
+
+merit B-1
+
+merits B-1
+
+output B-1
+to I-1
+screen I-1
+
+outputting B-1
+to I-1
+screen I-1
+
+perfective B-1
+
+perfective B-1
+maintenance I-1
+
+pilot B-1
+
+program B-1
+test I-1
+
+program B-1
+testing I-1
+
+program B-1
+tests I-1
+
+review B-1
+
+safety B-1
+
+safety B-1
+critical I-1
+
+safety B-1
+critical I-1
+system I-1
+
+safety B-1
+critical I-1
+systems I-1
+
+semantic B-1
