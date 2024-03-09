@@ -1,0 +1,11978 @@
+-DOCSTART- O
+ 
+alpha B-1
+ 
+application B-1
+software I-1
+ 
+applications B-1
+ 
+assembly B-1
+language I-1
+ 
+backup B-1
+ 
+basic B-1
+input/output I-1
+system I-1
+ 
+BIOS B-1
+ 
+changeover B-1
+ 
+compilation B-1
+ 
+compilation B-1
+process I-1
+ 
+computer B-1
+ 
+computer B-1
+aided I-1
+design I-1
+ 
+computer B-1
+application I-1
+ 
+computer B-1
+applications I-1
+ 
+computer B-1
+control I-1
+ 
+computer B-1
+generated I-1
+ 
+computer B-1
+generated I-1
+animation I-1
+ 
+computer B-1
+system I-1
+ 
+computer B-1
+use I-1
+ 
+computers B-1
+ 
+contents B-1
+ 
+corrective B-1
+ 
+corrective B-1
+maintenance I-1
+ 
+cost B-1
+effective I-1
+ 
+create B-1
+solution I-1
+ 
+current B-1
+system I-1
+ 
+data B-1
+flow I-1
+ 
+design B-1
+evaluation I-1
+ 
+design B-1
+review I-1
+ 
+design B-1
+validation I-1
+ 
+developmental B-1
+testing I-1
+ 
+diagram B-1
+ 
+distributed B-1
+ 
+distributed B-1
+system I-1
+ 
+distributed B-1
+systems I-1
+ 
+efficiency B-1
+ 
+erroneous B-1
+data I-1
+ 
+error B-1
+ 
+errors B-1
+ 
+executable B-1
+ 
+final B-1
+system I-1
+ 
+first B-1
+come I-1
+first I-1
+served I-1
+ 
+flow B-1
+ 
+flow B-1
+of I-1
+data I-1
+ 
+flowchart B-1
+ 
+flowcharts B-1
+ 
+further B-1
+development I-1
+ 
+input/output B-1
+ 
+input/output B-1
+system I-1
+ 
+interaction B-1
+ 
+intermediate B-1
+code I-1
+ 
+intermediate B-1
+language I-1
+ 
+invalid B-1
+idata I-1
+ 
+lost B-1
+data I-1
+ 
+maintainability B-1
+ 
+maintenance B-1
+ 
+merit B-1
+ 
+merits B-1
+ 
+output B-1
+to I-1
+screen I-1
+ 
+outputting B-1
+to I-1
+screen I-1
+ 
+perfective B-1
+ 
+perfective B-1
+maintenance I-1
+ 
+pilot B-1
+ 
+program B-1
+test I-1
+ 
+program B-1
+testing I-1
+ 
+program B-1
+tests I-1
+ 
+review B-1
+ 
+safety B-1
+ 
+safety B-1
+critical I-1
+ 
+safety B-1
+critical I-1
+system I-1
+ 
+safety B-1
+critical I-1
+systems I-1
+ 
+semantic B-1
+ 
+semantic B-1
+analysis I-1
+ 
+semantics B-1
+ 
+system B-1
+ 
+system B-1
+software I-1
+ 
+systems B-1
+ 
+systems B-1
+analysis I-1
+ 
+systems B-1
+software I-1
+ 
+time B-1
+scale I-1
+ 
+waterfall B-1
+ 
+architecture B-2
+ 
+architectures B-2
+ 
+assembler B-2
+ 
+assemblers B-2
+ 
+barcode B-2
+reader I-2
+ 
+bespoke B-2
+ 
+capacity B-2
+ 
+command B-2
+ 
+commands B-2
+ 
+communication B-2
+ 
+communication B-2
+element I-2
+ 
+communication B-2
+elements I-2
+ 
+communications B-2
+ 
+compiler B-2
+ 
+compilers B-2
+ 
+component B-2
+ 
+components B-2
+ 
+computer B-2
+architecture I-2
+ 
+computer B-2
+architectures I-2
+ 
+contemporary B-2
+secondary I-2
+storage I-2
+device I-2
+ 
+control B-2
+system I-2
+ 
+control B-2
+systems I-2
+ 
+correspondence B-2
+ 
+data B-2
+storage I-2
+ 
+defragmentation B-2
+ 
+dependability B-2
+ 
+device B-2
+ 
+device B-2
+allocation I-2
+ 
+devices B-2
+ 
+disc B-2
+ 
+disc B-2
+storage I-2
+ 
+discs B-2
+ 
+embedded B-2
+ 
+expert B-2
+system I-2
+ 
+expert B-2
+systems I-2
+ 
+flash B-2
+ 
+fragmentation B-2
+ 
+general B-2
+input I-2
+ 
+half B-2
+duplex I-2
+ 
+handshaking B-2
+ 
+hard B-2
+disk I-2
+ 
+hardware B-2
+ 
+hardware B-2
+element I-2
+ 
+hardware B-2
+elements I-2
+ 
+Harvard B-2
+ 
+I/O B-2
+controller I-2
+ 
+I/O B-2
+controllers I-2
+ 
+I/O B-2
+device I-2
+ 
+I/O B-2
+devices I-2
+ 
+identification B-2
+ 
+input B-2
+ 
+input/output B-2
+controller I-2
+ 
+input/output B-2
+controllers I-2
+ 
+input/output B-2
+device I-2
+ 
+input/output B-2
+devices I-2
+ 
+internal B-2
+ 
+interpretation B-2
+ 
+interpreter B-2
+ 
+interpreters B-2
+ 
+laser B-2
+printer I-2
+ 
+limit B-2
+ 
+magnetic B-2
+ 
+magnetic B-2
+disc I-2
+drive I-2
+ 
+main B-2
+components I-2
+ 
+main B-2
+memory I-2
+ 
+master B-2
+ 
+memory B-2
+ 
+optical B-2
+ 
+optical B-2
+disk I-2
+ 
+organisation B-2
+ 
+organise B-2
+ 
+paging B-2
+ 
+parallelisation B-2
+ 
+portable B-2
+device I-2
+ 
+print B-2
+ 
+printer B-2
+ 
+printers B-2
+ 
+radio B-2
+frequency I-2
+identification I-2
+ 
+RAM B-2
+ 
+random-access B-2
+memory I-2
+ 
+random B-2
+access I-2
+memory I-2
+ 
+RFID B-2
+ 
+ROM B-2
+ 
+read-only B-2
+memory I-2
+ 
+read B-2
+only I-2
+memory I-2
+ 
+screen B-2
+ 
+screen B-2
+layout I-2
+ 
+screens B-2
+ 
+secondary B-2
+ 
+secondary B-2
+storage I-2
+ 
+secondary B-2
+storage I-2
+device I-2
+ 
+solid-state B-2
+disk I-2
+ 
+solid B-2
+state I-2
+disk I-2
+ 
+SSD B-2
+ 
+storage B-2
+ 
+storage B-2
+requirements I-2
+ 
+storage B-2
+space I-2
+ 
+technical B-2
+ 
+unit B-2
+ 
+virtual B-2
+ 
+virtual B-2
+machine I-2
+ 
+virtual B-2
+machines I-2
+ 
+vocabulary B-2
+dictation I-2
+system I-2
+ 
+voice B-2
+input I-2
+ 
+voice B-2
+print I-2
+ 
+recognition B-2
+ 
+Von B-2
+Neumann I-2
+ 
+allocation B-3
+ 
+backing B-3
+store I-3
+ 
+batch B-3
+ 
+batch B-3
+processing I-3
+ 
+blocked B-3
+ 
+buffering B-3
+ 
+competing B-3
+ 
+data B-3
+transfer I-3
+ 
+data B-3
+transfer I-3
+rate I-3
+ 
+data B-3
+transfer I-3
+rates I-3
+ 
+data B-3
+transmission I-3
+ 
+data B-3
+transmissions I-3
+ 
+device B-3
+driver I-3
+ 
+device B-3
+drivers I-3
+ 
+directory B-3
+ 
+double B-3
+buffering I-3
+ 
+event B-3
+ 
+event B-3
+message I-3
+ 
+event B-3
+messages I-3
+ 
+generate B-3
+interrupt I-3
+ 
+hierarchical B-3
+structure I-3
+ 
+high-level B-3
+scheduling I-3
+ 
+job B-3
+priorities I-3
+ 
+job B-3
+priority I-3
+ 
+kernel B-3
+ 
+level B-3
+ 
+manage B-3
+backing I-3
+store I-3
+ 
+manage B-3
+resources I-3
+ 
+managing B-3
+backing I-3
+store I-3
+ 
+managing B-3
+resources I-3
+ 
+memory B-3
+management I-3
+ 
+memory B-3
+protection I-3
+ 
+mode B-3
+of I-3
+operation I-3
+ 
+multi B-3
+access I-3
+ 
+multi B-3
+programming I-3
+ 
+multi B-3
+tasking I-3
+ 
+multi B-3
+user I-3
+ 
+multi-access B-3
+ 
+multi-programming B-3
+ 
+multi-tasking B-3
+ 
+multi-user B-3
+ 
+nested B-3
+operating I-3
+system I-3
+ 
+operating B-3
+system I-3
+ 
+operating system B-3
+system I-3
+kernel I-3
+ 
+operating B-3
+system I-3
+ 
+operating B-3
+systems I-3
+ 
+OS B-3
+ 
+partition B-3
+ 
+PC B-3
+ 
+peripherals B-3
+ 
+personal B-3
+computer I-3
+ 
+polling B-3
+ 
+priority B-3
+ 
+program B-3
+translator I-3
+ 
+ready B-3
+ 
+real-time B-3
+ 
+real-time B-3
+control I-3
+ 
+real-time B-3
+transaction I-3
+ 
+real B-3
+time I-3
+ 
+real B-3
+time I-3
+control I-3
+ 
+real B-3
+time I-3
+transaction I-3
+ 
+resource B-3
+management I-3
+ 
+resources 
+ 
+running B-3
+ 
+scheduling B-3
+ 
+shortest B-3
+job I-3
+first I-3
+ 
+shortest B-3
+remaining I-3
+time I-3
+ 
+single-user B-3
+ 
+single B-3
+user I-3
+ 
+speed B-3
+ 
+standalone B-3
+ 
+threading B-3
+ 
+three process B-3
+process I-3
+state I-3
+ 
+three process B-3
+process I-3
+states I-3
+ 
+time-slicing B-3
+ 
+time B-3
+slicing I-3
+ 
+transaction B-3
+ 
+transaction B-3
+log I-3
+ 
+transaction B-3
+logs I-3
+ 
+transactions B-3
+ 
+user B-3
+ 
+utilities B-3
+ 
+utility B-3
+ 
+utility B-3
+program I-3
+ 
+utility B-3
+programs I-3
+ 
+utility B-3
+software I-3
+ 
+information B-4
+ 
+information B-4
+processing I-4
+ 
+error B-4
+checking I-4
+ 
+information B-4
+hiding I-4
+ 
+information B-4
+retrieval I-4
+ 
+information B-4
+system I-4
+ 
+information B-4
+systems I-4
+ 
+information B-4
+technology I-4
+ 
+IT B-4
+ 
+acceptance B-5
+ 
+adaptive B-5
+ 
+adaptive B-5
+maintenance I-5
+ 
+ambiguity B-5
+ 
+amibguities B-5
+ 
+annotated B-5
+listing I-5
+ 
+annotated B-5
+listings I-5
+ 
+annotated B-5
+test I-5
+run I-5
+ 
+annotation B-5
+ 
+annotations B-5
+ 
+apply B-5
+ 
+audience B-5
+ 
+beta B-5
+ 
+boundary B-5
+ 
+boundary B-5
+data I-5
+ 
+budget B-5
+ 
+closed B-5
+source I-5
+ 
+code B-5
+ 
+code B-5
+generation I-5
+ 
+code B-5
+optimisation I-5
+ 
+code B-5
+optimization I-5
+ 
+code B-5
+quality I-5
+ 
+commentary B-5
+ 
+commentaries B-5
+ 
+comment B-5
+ 
+comments B-5
+ 
+commercially B-5
+available I-5
+system I-5
+ 
+contemporary B-5
+application I-5
+ 
+contemporary B-5
+applications I-5
+ 
+contemporary B-5
+approach I-5
+ 
+contemporary B-5
+approaches I-5
+ 
+contemporary B-5
+architecture I-5
+ 
+contemporary B-5
+architectures I-5
+ 
+contemporary B-5
+computer I-5
+system I-5
+ 
+contemporary B-5
+computer I-5
+systems I-5
+ 
+contemporary B-5
+method I-5
+ 
+contemporary B-5
+methods I-5
+ 
+contemporary B-5
+process I-5
+ 
+contemporary B-5
+processes I-5
+ 
+correct B-5
+results I-5
+ 
+criteria B-5
+ 
+critical B-5
+path I-5
+ 
+data B-5
+model I-5
+ 
+debug B-5
+ 
+debugging B-5
+ 
+design B-5
+ 
+design B-5
+modular I-5
+structure I-5
+ 
+design B-5
+system I-5
+ 
+develop B-5
+ 
+development B-5
+ 
+development B-5
+process I-5
+ 
+development B-5
+stage I-5
+ 
+development B-5
+stages I-5
+ 
+document B-5
+ 
+documentation B-5
+ 
+evaluate B-5
+ 
+evaluation B-5
+ 
+extreme B-5
+programming I-5
+ 
+feasibility B-5
+ 
+feasibility B-5
+study I-5
+ 
+formal B-5
+method I-5
+ 
+formal B-5
+methods I-5
+ 
+functioning B-5
+system I-5
+ 
+high B-5
+level I-5
+dependability 
+ 
+high-level B-5
+dependability I-5
+ 
+improvement B-5
+ 
+lexical B-5
+analysis I-5
+ 
+lifecycle B-5
+ 
+linkers B-5
+ 
+memory B-5
+requirement I-5
+ 
+memory B-5
+requirements I-5
+ 
+methodology B-5
+ 
+model B-5
+ 
+modelling B-5
+ 
+models B-5
+ 
+object B-5
+code I-5
+ 
+off B-5
+the I-5
+shelf I-5
+ 
+off-the-shelf B-5
+ 
+open B-5
+source 
+ 
+open-source B-5
+ 
+program B-5
+layout I-5
+ 
+program B-5
+version I-5
+management I-5
+ 
+prototype B-5
+ 
+prototype B-5
+solution I-5
+ 
+prototype B-5
+system I-5
+ 
+prototyping B-5
+ 
+RAD B-5
+ 
+rapid B-5
+application I-5
+development I-5
+ 
+refine B-5
+ 
+refine B-5
+design I-5
+ 
+refine B-5
+designs I-5
+ 
+refine B-5
+understanding I-5
+ 
+refinement B-5
+ 
+segmentation B-5
+ 
+self B-5
+documenting I-5
+ 
+self-documenting B-5
+ 
+software B-5
+ 
+software B-5
+development I-5
+ 
+software B-5
+engineering I-5
+process I-5
+ 
+software B-5
+package I-5
+ 
+software B-5
+packages I-5
+ 
+software B-5
+system I-5
+ 
+software B-5
+systems I-5
+ 
+software B-5
+tool I-5
+ 
+software B-5
+tools I-5
+ 
+software B-5
+type I-5
+ 
+software B-5
+types I-5
+ 
+specialised B-5
+field I-5
+ 
+specialized B-5
+field I-5
+ 
+spiral B-5
+modal I-5
+ 
+stage B-5
+ 
+stages B-5
+ 
+structured B-5
+approach I-5
+ 
+structured B-5
+convention I-5
+ 
+system B-5
+design I-5
+ 
+system B-5
+specification I-5
+ 
+system B-5
+testing I-5
+ 
+systems B-5
+design I-5
+ 
+systems B-5
+specification I-5
+ 
+systems B-5
+testing I-5
+ 
+target B-5
+ 
+target B-5
+end I-5
+user I-5
+ 
+task B-5
+ 
+tasks B-5
+ 
+test B-5
+ 
+tests B-5
+ 
+testing B-5
+ 
+tool B-5
+ 
+tools B-5
+ 
+translation B-5
+ 
+translation B-5
+programs I-5
+ 
+translators B-5
+ 
+unit B-5
+test I-5
+ 
+unit B-5
+tests I-5
+ 
+unit B-5
+testing I-5
+ 
+virtual B-5
+memory I-5
+ 
+weather B-5
+forecasting I-5
+ 
+XP B-5
+ 
+0 B-6
+ 
+1 B-6
+ 
+ACC B-6
+ 
+accumulator B-6
+ 
+address B-6
+ 
+addressing B-6
+mode I-6
+ 
+ALU B-6
+ 
+arithmetic B-6
+logic I-6
+unit I-6
+ 
+arithmetic B-6
+unit I-6
+ 
+assembly B-6
+language I-6
+ 
+assembly B-6
+language I-6
+program I-6
+ 
+assembly B-6
+language I-6
+programs I-6
+ 
+basic B-6
+machine I-6
+operation I-6
+ 
+BRA B-6
+ 
+branching B-6
+ 
+BRP B-6
+ 
+BRZ B-6
+ 
+bus B-6
+ 
+buses B-6
+ 
+cache B-6
+ 
+cache B-6
+memory I-6
+ 
+caching B-6
+ 
+central B-6
+processing I-6
+unit I-6
+ 
+CIR B-6
+ 
+CISC B-6
+ 
+clearing B-6
+registers I-6
+ 
+clock B-6
+ 
+clock B-6
+speed I-6
+ 
+complex B-6
+instruction I-6
+set I-6
+computer I-6
+ 
+control B-6
+ 
+control B-6
+bus I-6
+ 
+control B-6
+buses I-6
+ 
+control B-6
+unit I-6
+ 
+core B-6
+ 
+cores B-6
+ 
+CPU B-6
+ 
+current B-6
+instruction I-6
+register I-6
+ 
+cycle B-6
+ 
+cycles B-6
+ 
+data B-6
+bus B-6
+ 
+data B-6
+bus I-6
+width I-6
+ 
+data B-6
+processing I-6
+ 
+datum B-6
+ 
+decode B-6
+ 
+dedicated B-6
+register I-6
+ 
+dedicated B-6
+registers I-6
+ 
+direct B-6
+ 
+execute B-6
+ 
+executing B-6
+the I-6
+code I-6
+ 
+execution B-6
+ 
+execution B-6
+error I-6
+ 
+execution B-6
+errors I-6
+ 
+fetch B-6
+ 
+fetch B-6
+decode I-6
+execute I-6
+cycle I-6
+ 
+fetch B-6
+execute I-6
+ 
+fetch B-6
+execute I-6
+cycle I-6
+ 
+fetch-decode-execute B-6
+cycle I-6
+ 
+fetch-execute B-6
+ 
+fetch-execute B-6
+cycle I-6
+ 
+general B-6
+purpose I-6
+register I-6
+ 
+general B-6
+purpose I-6
+registers I-6
+ 
+general-purpose B-6
+register I-6
+ 
+general-purpose B-6
+registers I-6
+ 
+GPU B-6
+ 
+graphics B-6
+processing I-6
+unit I-6
+ 
+halt B-6
+immediate I-6
+ 
+instruction B-6
+ 
+instruction B-6
+set I-6
+ 
+instructions B-6
+ 
+interrupt B-6
+ 
+interrupt B-6
+handling I-6
+ 
+interrupt B-6
+service I-6
+routine I-6
+ 
+interrupts B-6
+ 
+ISR B-6
+ 
+load B-6
+ 
+loader B-6
+ 
+loaders B-6
+ 
+machine B-6
+code I-6
+ 
+MAR B-6
+ 
+MDR B-6
+ 
+memory B-6
+address I-6
+ 
+memory B-6
+address I-6
+register I-6
+ 
+memory B-6
+data I-6
+register I-6
+ 
+memory B-6
+unit I-6
+ 
+mnemonic B-6
+ 
+mnemonic B-6
+form I-6
+ 
+multi B-6
+level I-6
+feedback I-6
+queries I-6
+ 
+multi-level B-6
+feedback I-6
+queries I-6
+ 
+multicore B-6
+ 
+multiple B-6
+cores I-6
+ 
+opcode B-6
+ 
+operand B-6
+ 
+operands B-6
+ 
+parallel B-6
+ 
+parallel B-6
+core I-6
+ 
+parallel B-6
+processing I-6
+ 
+performance B-6
+ 
+process B-6
+data I-6
+ 
+process B-6
+state I-6
+ 
+process B-6
+states I-6
+ 
+processess B-6
+ 
+processing B-6
+ 
+processing B-6
+stage I-6
+ 
+processing B-6
+stages I-6
+ 
+processor B-6
+ 
+processor B-6
+allocation I-6
+ 
+processor B-6
+architecture I-6
+ 
+processor B-6
+specific I-6
+ 
+processors B-6
+ 
+program B-6
+counter I-6
+ 
+reduced B-6
+instruction I-6
+set I-6
+computer I-6
+ 
+register B-6
+ 
+registers B-6
+ 
+RISC B-6
+ 
+role B-6
+ 
+shift B-6
+ 
+shift B-6
+function I-6
+ 
+shift B-6
+functions I-6
+ 
+shift B-6
+left I-6
+ 
+shift B-6
+right I-6
+ 
+shifts B-6
+ 
+status B-6
+register I-6
+ 
+sub-task B-6
+ 
+sub-tasks B-6
+ 
+subtask B-6
+ 
+subtasks B-6
+ 
+unconditional B-6
+ 
+1st Normal Form B-7
+ 
+2nd Normal Form B-7
+ 
+3rd Normal Form B-7
+ 
+1NF B-7
+ 
+2NF B-7
+ 
+3NF B-7
+ 
+ACID B-7
+ 
+atomicity B-7
+ 
+atomicity B-7
+consistency I-7
+isolation I-7
+durability I-7
+ 
+attribute B-7
+ 
+capture B-7
+ 
+Char(n) B-7
+ 
+commitment B-7
+ordering I-7
+ 
+composite B-7
+primary I-7
+key I-7
+ 
+conceptual B-7
+data I-7
+model I-7
+ 
+conceptual B-7
+data I-7
+models I-7
+ 
+concurrent B-7
+access I-7
+ 
+consistency B-7
+ 
+contemporary B-7
+database I-7
+system I-7
+ 
+CREATE B-7
+TABLE I-7
+ 
+data B-7
+consistency I-7
+ 
+data B-7
+dictionaries I-7
+ 
+data B-7
+dictionary I-7
+ 
+data B-7
+independence I-7
+ 
+data B-7
+manipulation I-7
+ 
+data B-7
+normalisation I-7
+ 
+data B-7
+normalization I-7
+ 
+data B-7
+redundancy I-7
+ 
+data B-7
+requirements I-7
+ 
+data B-7
+validation I-7
+ 
+data B-7
+vertification I-7
+ 
+data B-7
+warehousing I-7
+ 
+database B-7
+ 
+database B-7
+function I-7
+ 
+database B-7
+functions I-7
+ 
+database B-7
+management I-7
+system I-7
+ 
+database B-7
+management I-7
+systems I-7
+ 
+database B-7
+system I-7
+ 
+database B-7
+systems I-7
+ 
+database B-7
+table I-7
+ 
+database B-7
+tables I-7
+ 
+Date B-7
+Time I-7
+ 
+DBMS B-7
+ 
+define B-7
+ 
+DELETE B-7
+ 
+delete B-7
+data I-7
+ 
+distributed B-7
+database I-7
+ 
+distributed B-7
+databases I-7
+ 
+DROP B-7
+ 
+durability B-7
+ 
+entity B-7
+ 
+entity B-7
+relationship I-7
+ 
+entity B-7
+relationship I-7
+modelling I-7
+ 
+first B-7
+normal I-7
+form I-7
+ 
+flat B-7
+file I-7
+ 
+foreign B-7
+key I-7
+ 
+FROM B-7
+ 
+GROUP BY B-7
+ 
+IN B-7
+ 
+independence B-7
+ 
+infrasctructure B-7
+ 
+insert B-7
+ 
+INSERT B-7
+ 
+INSERT B-7
+INTO I-7
+ 
+Int B-7
+ 
+integrity B-7
+ 
+integrity B-7
+processes I-7
+ 
+isolation B-7
+ 
+JOIN B-7
+ 
+LIKE B-7
+ 
+management B-7
+system I-7
+ 
+management B-7
+systems I-7
+ 
+many B-7
+to I-7
+many I-7
+ 
+many-to-many B-7
+ 
+meaningful B-7
+ 
+mutiple B-7
+clients I-7
+ 
+multiple B-7
+tables I-7
+ 
+normal B-7
+form I-7
+ 
+normalisation B-7
+ 
+normalization B-7
+ 
+normalied B-7
+ 
+normalized B-7
+ 
+NOT B-7
+NULL I-7
+ 
+Numeric(m,n) B-7
+ 
+one B-7
+to I-7
+many I-7
+ 
+one B-7
+to I-7
+one I-7
+ 
+one-to-many B-7
+ 
+one-to-one B-7
+ 
+order B-7
+ 
+ORDER BY B-7
+ 
+predictive B-7
+analysis I-7
+ 
+PRIMARY B-7
+KEY I-7
+ 
+primary B-7
+keys I-7
+ 
+queries B-7
+ 
+query B-7
+ 
+query B-7
+language I-7
+ 
+record B-7
+ 
+record B-7
+locking I-7
+ 
+record B-7
+locks I-7
+ 
+records B-7
+ 
+redundancy B-7
+ 
+referential B-7
+ 
+relational B-7
+ 
+relational B-7
+database I-7
+ 
+relational B-7
+databases I-7
+ 
+relational B-7
+database I-7
+organisation I-7
+ 
+relational B-7
+database I-7
+organization I-7
+ 
+relational B-7
+database I-7
+system I-7
+ 
+relational B-7
+database I-7
+systems I-7
+ 
+relationship B-7
+modelling I-7
+ 
+relationships B-7
+ 
+restructure B-7
+data I-7
+ 
+searching B-7
+data I-7
+ 
+second B-7
+normal I-7
+form I-7
+ 
+secondary B-7
+key I-7
+ 
+SELECT B-7
+ 
+SELECT B-7
+* I-7
+FROM I-7
+ 
+SELECT B-7
+FROM I-7
+ 
+serialisation B-7
+ 
+serialization B-7
+ 
+simultaneous B-7
+access I-7
+ 
+SQL B-7
+ 
+structured B-7
+query I-7
+language I-7
+ 
+subquery B-7
+ 
+table B-7
+ 
+third B-7
+normal I-7
+form I-7
+ 
+timestamp B-7
+ordering I-7
+ 
+unnormalised B-7
+ 
+unnormalized B-7
+ 
+UPDATE B-7
+ 
+UPDATE B-7
+SET I-7
+ 
+updates B-7
+ 
+useful B-7
+ 
+valid B-7
+ 
+validation B-7
+ 
+verification B-7
+ 
+view B-7
+ 
+views B-7
+ 
+WHERE B-7
+ 
+WILDCARDS B-7
+ 
+big B-8
+data I-8
+ 
+cloud B-8
+ 
+correct B-8
+code I-8
+ 
+data B-8
+mining I-8
+ 
+distributed B-8
+code I-8
+ 
+distribution B-8
+ 
+distributed B-8
+ 
+edges B-8
+ 
+fact B-8
+based I-8
+model I-8
+ 
+graph B-8
+schema I-8
+ 
+immutable B-8
+data I-8
+structures I-8
+ 
+machine B-8
+learning I-8
+ 
+media B-8
+ 
+mouse B-8
+clicks I-8
+ 
+pattern B-8
+ 
+properties B-8
+ 
+re-organisation B-8
+ 
+re-organization B-8
+ 
+reorganisatoin B-8
+ 
+reorganization B-8
+ 
+single B-8
+piece I-8
+of I-8
+information I-8
+ 
+single B-8
+server I-8
+ 
+size B-8
+ 
+smartphone B-8
+ 
+smartphones B-8
+ 
+statelessness B-8
+ 
+stream B-8
+ 
+structure B-8
+of I-8
+dataset I-8
+ 
+unstructured B-8
+ 
+variety B-8
+ 
+velocity B-8
+ 
+video B-8
+surveillance I-8
+ 
+volume B-8
+ 
+1 B-9
+ 
+10^12 B-9
+ 
+10^3 B-9
+ 
+10^6 B-9
+ 
+10^9 B-9
+ 
+2^10 B-9
+ 
+2^20 B-9
+ 
+2^30 B-9
+ 
+2^40 B-9
+ 
+2^n B-9
+ 
+2n-1 B-9
+ 
+8 B-9
+bits I-9
+ 
+absolute B-9
+error I-9
+ 
+accuracy B-9
+ 
+arithmetic B-9
+shift I-9
+ 
+arithmetic B-9
+shifts I-9
+ 
+ASCII B-9
+ 
+base B-9
+ 
+base 10 B-9
+ 
+base 16 B-9
+ 
+base 2 B-9
+ 
+bit B-9
+ 
+bit B-9
+pattern I-9
+ 
+bit B-9
+patterns I-9
+ 
+bits B-9
+ 
+bitwise B-9
+ 
+bitwise B-9
+manipulation I-9
+ 
+byte B-9
+ 
+bytes B-9
+ 
+calculation B-9
+ 
+calculations B-9
+ 
+character B-9
+ 
+character B-9
+code I-9
+representation I-9
+ 
+character B-9
+code I-9
+to I-9
+character I-9
+ 
+character B-9
+set I-9
+ 
+character B-9
+sets I-9
+ 
+character B-9
+storage I-9
+ 
+character B-9
+to I-9
+character I-9
+code I-9
+ 
+characters B-9
+ 
+coding B-9
+character I-9
+data I-9
+ 
+conversion B-9
+ 
+convert B-9
+ 
+data B-9
+ 
+data B-9
+representation I-9
+ 
+dataset B-9
+ 
+decimal B-9
+ 
+decimal B-9
+digit I-9
+ 
+decimal B-9
+to I-9
+binary I-9
+ 
+denary B-9
+ 
+extreme B-9
+data I-9
+ 
+field B-9
+ 
+file B-9
+ 
+file B-9
+access I-9
+ 
+file B-9
+access I-9
+method I-9
+ 
+file B-9
+access I-9
+methods I-9
+ 
+file B-9
+archive I-9
+ 
+file B-9
+archives I-9
+ 
+file B-9
+attribute I-9
+ 
+file B-9
+attributes I-9
+ 
+file B-9
+back-up I-9
+ 
+file B-9
+backup I-9
+ 
+file B-9
+design I-9
+ 
+file B-9
+generations I-9
+ 
+file B-9
+handling I-9
+ 
+file B-9
+organisation I-9
+ 
+file B-9
+organization I-9
+ 
+file B-9
+re-organisation I-9
+ 
+file B-9
+re-organization I-9
+ 
+file B-9
+reorganisation I-9
+ 
+file B-9
+reorganization I-9
+ 
+file B-9
+server I-9
+ 
+file B-9
+servers I-9
+ 
+files B-9
+ 
+fixed B-9
+length I-9
+ 
+fixed-length B-9
+ 
+G B-9
+ 
+Gi B-9
+ 
+gibi B-9
+ 
+giga B-9
+ 
+handle B-9
+data I-9
+ 
+hexadecimal B-9
+ 
+hexadecimal B-9
+notation I-9
+ 
+inaccuracy B-9
+ 
+k B-9
+ 
+Ki B-9
+ 
+kibi B-9
+ 
+kilo B-9
+ 
+logical B-9
+shift I-9
+ 
+M B-9
+ 
+majority B-9
+voting I-9
+ 
+manage B-9
+overflow I-9
+ 
+mantissa B-9
+ 
+mantissa B-9
++ I-9
+exponent I-9
+ 
+mask B-9
+ 
+masking B-9
+encryption I-9
+ 
+masks B-9
+ 
+mega B-9
+ 
+metacharacters B-9
+ 
+metadata B-9
+ 
+Mi B-9
+ 
+n B-9
+ 
+name B-9
+symbol I-9
+ 
+names B-9
+symbols I-9
+ 
+negative B-9
+ 
+negative B-9
+integer I-9
+ 
+negative B-9
+integers I-9
+ 
+normal B-9
+data I-9
+ 
+numerical B-9
+data I-9
+ 
+overflow B-9
+ 
+plaintext B-9
+ 
+powers of 10 B-9
+ 
+powers of 2 B-9
+ 
+precision B-9
+ 
+pure B-9
+binary I-9
+representation I-9
+ 
+random B-9
+ 
+range B-9
+ 
+realistic B-9
+data I-9
+ 
+relative B-9
+error I-9
+ 
+represent B-9
+ 
+representation B-9
+ 
+representations B-9
+ 
+round B-9
+ 
+rounding B-9
+ 
+rounding B-9
+error I-9
+ 
+rounding B-9
+errors I-9
+ 
+sign B-9
+ 
+signed B-9
+ 
+signed B-9
+binary I-9
+ 
+standardisation B-9
+ 
+standardised B-9
+ 
+standardised B-9
+character I-9
+set I-9
+ 
+standardised B-9
+character I-9
+sets I-9
+ 
+standardization B-9
+ 
+standardizsed B-9
+ 
+standardized B-9
+character I-9
+set I-9
+ 
+standardized B-9
+character I-9
+sets I-9
+ 
+T B-9
+ 
+tebi B-9
+ 
+tera B-9
+ 
+transformation B-9
+ 
+truncation B-9
+ 
+two's B-9
+complement I-9
+ 
+typical B-9
+data I-9
+ 
+underflow B-9
+ 
+Vernam B-9
+ 
+1 B-10
+dimension I-10
+ 
+1 B-10
+dimensional I-10
+ 
+1-D B-10
+array I-10
+ 
+1D B-10
+array I-10
+ 
+2 B-10
+dimensional I-10
+ 
+2 B-10
+dimensions I-10
+ 
+2-D B-10
+array I-10
+ 
+2D B-10
+array I-10
+ 
+3 B-10
+dimensional I-10
+ 
+3 B-10
+dimensions I-10
+ 
+3-D B-10
+array I-10
+ 
+3D B-10
+array I-10
+ 
+abstract B-10
+data I-10
+structure I-10
+ 
+abstract B-10
+data I-10
+structures I-10
+ 
+abstract B-10
+data I-10
+type I-10
+ 
+abstract B-10
+data I-10
+types I-10
+ 
+add B-10
+an I-10
+item I-10
+ 
+add B-10
+data I-10
+ 
+adjacency B-10
+list I-10
+ 
+adjacency B-10
+lists I-10
+ 
+adjacency B-10
+matrix I-10
+ 
+arc B-10
+ 
+archive B-10
+ 
+array B-10
+ 
+arrays B-10
+ 
+arrow B-10
+ 
+binary B-10
+ 
+binary B-10
+airthmetic I-10
+ 
+binary B-10
+form I-10
+ 
+binary B-10
+integers I-10
+ 
+binary B-10
+number I-10
+patterns I-10
+ 
+binary B-10
+to I-10
+decimal I-10
+ 
+circular B-10
+ 
+collection B-10
+ 
+collision B-10
+ 
+convex B-10
+combination I-10
+ 
+data B-10
+structure I-10
+ 
+data B-10
+structures I-10
+ 
+data B-10
+type I-10
+ 
+data B-10
+types I-10
+ 
+descendants B-10
+ 
+Dictionaries B-10
+ 
+dictionary B-10
+ 
+dictionary-based B-10
+method I-10
+ 
+dictionary-based B-10
+methods I-10
+ 
+dictionary B-10
+based I-10
+method I-10
+ 
+dictionary B-10
+based I-10
+methods I-10
+ 
+dimension B-10
+ 
+directed B-10
+ 
+directed B-10
+graph I-10
+ 
+dot B-10
+product I-10
+ 
+dynamic B-10
+ 
+edge B-10
+ 
+edges B-10
+ 
+float B-10
+ 
+floating B-10
+point I-10
+ 
+floating B-10
+point I-10
+arithmetic I-10
+ 
+floating B-10
+point I-10
+binary I-10
+ 
+floating B-10
+point I-10
+form I-10
+ 
+floating B-10
+point I-10
+value I-10
+ 
+floating-point B-10
+ 
+floating-point B-10
+arithmetic I-10
+ 
+floating-point B-10
+binary I-10
+ 
+floating-point B-10
+form I-10
+ 
+floating-point B-10
+value I-10
+ 
+graph B-10
+ 
+hash B-10
+table I-10
+ 
+hashing B-10
+ 
+key B-10
+value I-10
+ 
+key B-10
+value I-10
+pairs I-10
+ 
+key-value B-10
+ 
+key-value B-10
+pairs I-10
+ 
+linear B-10
+ 
+linear B-10
+function I-10
+ 
+magnitude B-10
+ 
+map B-10
+ 
+mapping B-10
+ 
+mebi B-10
+ 
+n-dimensional B-10
+ 
+node B-10
+ 
+nodes B-10
+ 
+non-text B-10
+file I-10
+ 
+one-dimensional B-10
+array I-10
+ 
+one B-10
+dimensional I-10
+array I-10
+ 
+peek B-10
+ 
+pointer B-10
+ 
+pop B-10
+ 
+pre-order B-10
+ 
+primitive B-10
+ 
+primitive B-10
+data I-10
+type I-10
+ 
+push B-10
+ 
+queue B-10
+ 
+queues B-10
+ 
+reference B-10
+ 
+rehashing B-10
+ 
+remove B-10
+an I-10
+item I-10
+ 
+remove B-10
+data I-10
+ 
+root B-10
+ 
+same B-10
+data I-10
+type I-10
+ 
+stack B-10
+ 
+stack B-10
+frame I-10
+ 
+stack B-10
+operations I-10
+ 
+stacks B-10
+ 
+structure B-10
+ 
+structured B-10
+ 
+structures B-10
+ 
+test B-10
+for I-10
+empty I-10
+queue I-10
+ 
+test B-10
+for I-10
+empty I-10
+list I-10
+ 
+test B-10
+for I-10
+empty I-10
+stack I-10
+ 
+test B-10
+for I-10
+full I-10
+queue I-10
+ 
+test B-10
+for I-10
+stack I-10
+full I-10
+ 
+text B-10
+ 
+text B-10
+file I-10
+ 
+Ti B-10
+ 
+top B-10
+ 
+tree B-10
+ 
+tree B-10
+data I-10
+structure I-10
+ 
+trees B-10
+ 
+tuple B-10
+ 
+two-dimensional B-10
+ 
+two B-10
+dimensional I-10
+ 
+UNICODE B-10
+ 
+unit B-10
+of I-10
+information I-10
+ 
+value B-10
+and I-10
+key I-10
+ 
+vertex    B-10
+ 
+vertices B-10
+ 
+weighted B-10
+graph I-10
+ 
+A* B-11
+algorithm I-11
+ 
+algorithm B-11
+ 
+algorithmic B-11
+complexity I-11
+ 
+algorithmic B-11
+problems I-11
+ 
+algorithms B-11
+ 
+alteration B-11
+ 
+alterations B-11
+ 
+acending B-11
+order I-11
+ 
+BFS B-11
+ 
+Big B-11
+O I-11
+ 
+Big B-11
+O I-11
+notation I-11
+ 
+Big-O B-11
+ 
+Big-O B-11
+notation I-11
+ 
+binary B-11
+number I-11
+system I-11
+ 
+binary B-11
+search I-11
+ 
+binary B-11
+search I-11
+tree I-11
+ 
+binary B-11
+tree I-11
+search I-11
+ 
+binary-search B-11
+ 
+binary-search B-11
+tree I-11
+ 
+breadth-first B-11
+ 
+breadth-first B-11
+search I-11
+ 
+breadth-first B-11
+traversal I-11
+of I-11
+tree   I-11
+ 
+breadth-first B-11
+tree I-11
+traversal I-11
+ 
+breadth-first B-11
+tree-traversal I-11
+ 
+bubble B-11
+ 
+bubble B-11
+sort I-11
+ 
+characteristic B-11
+ 
+characteristics B-11
+ 
+classification B-11
+ 
+compare B-11
+algorithms I-11
+ 
+comparing B-11
+algorithms I-11
+ 
+complexities B-11
+ 
+complexity B-11
+ 
+constant B-11
+time I-11
+ 
+copy B-11
+ 
+copying B-11
+ 
+create B-11
+algorithms I-11
+ 
+creating B-11
+algorithms I-11
+ 
+data B-11
+compression I-11
+ 
+data B-11
+compression I-11
+algorithm I-11
+ 
+data B-11
+compression I-11
+algorithms I-11
+ 
+data B-11
+item I-11
+ 
+decompression B-11
+time I-11
+ 
+definition B-11
+ 
+depth B-11
+first I-11
+ 
+depth-first B-11
+ 
+depth B-11
+first I-11
+search I-11
+ 
+depth-first B-11
+search I-11
+ 
+design B-11
+algorithms I-11
+ 
+designing B-11
+algorithms I-11
+ 
+DFS B-11
+ 
+Dijkstra B-11
+ 
+Dijkstra's B-11
+shortest I-11
+path I-11
+ 
+Dijkstra's B-11
+shortest I-11
+path I-11
+algorithm I-11
+ 
+divide B-11
+and I-11
+conquer I-11
+ 
+dry B-11
+run I-11
+ 
+dry-run B-11
+ 
+end B-11
+ 
+execution B-11
+time I-11
+ 
+exponential B-11
+ 
+exponential B-11
+function I-11
+ 
+exponential B-11
+time I-11
+ 
+expressoin B-11
+tree I-11
+ 
+graph B-11
+traversal I-11
+ 
+graph-traversal B-11
+ 
+Halting B-11
+problem I-11
+ 
+hashing B-11
+algorithm I-11
+ 
+heuristic B-11
+method I-11
+ 
+heuristic B-11
+methods I-11
+ 
+heuristics B-11
+ 
+in B-11
+order I-11
+ 
+in-order B-11
+ 
+infix B-11
+transformation I-11
+ 
+insertion B-11
+ 
+insertion B-11
+sort I-11
+ 
+intractable B-11
+ 
+lifetime B-11
+ 
+linear B-11
+search I-11
+ 
+linear B-11
+time I-11
+ 
+logarithmic B-11
+ 
+logarithmic B-11
+function I-11
+ 
+logarithmic B-11
+time I-11
+ 
+merge B-11
+ 
+merge B-11
+sort I-11
+ 
+N B-11
+to I-11
+N I-11
+ 
+n! B-11
+ 
+navigate B-11
+ 
+no B-11
+cycle I-11
+ 
+non B-11
+computable I-11
+ 
+non B-11
+polynomial I-11
+ 
+non B-11
+recursive I-11
+ 
+non-computable B-11
+ 
+non-polynomial B-11
+ 
+non-recursive B-11
+ 
+O(log n) B-11
+ 
+O(n) B-11
+ 
+O(n^2) B-11
+ 
+O(n2) B-11
+ 
+O(nlog n) B-11
+ 
+optimisation B-11
+ 
+optimization B-11
+ 
+PageRank B-11
+ 
+PageRank B-11
+algorithm I-11
+ 
+parameter B-11
+ 
+parameter B-11
+passing I-11
+ 
+parameters B-11
+ 
+passes B-11
+ 
+polynomial B-11
+ 
+polynomial B-11
+function I-11
+ 
+polynomial B-11
+time I-11
+ 
+post B-11
+order I-11
+ 
+post-order B-11
+ 
+PR B-11
+ 
+quick B-11
+sort I-11
+ 
+quicksort B-11
+ 
+reverse B-11
+polish I-11
+ 
+reverse B-11
+polish I-11
+notation I-11
+ 
+rogue B-11
+value I-11
+ 
+rogue B-11
+values I-11
+ 
+round B-11
+robin I-11
+ 
+round-robin B-11
+ 
+RPN B-11
+ 
+run B-11
+time I-11
+ 
+run-time B-11
+ 
+runtime B-11
+ 
+saving B-11
+percentage I-11
+ 
+selection B-11
+ 
+sequence B-11
+ 
+sequential B-11
+ 
+shortest B-11
+path I-11
+ 
+shortest-path B-11
+ 
+size B-11
+of I-11
+problem I-11
+ 
+sort B-11
+ 
+sorting B-11
+ 
+space B-11
+ 
+space B-11
+wise I-11
+ 
+space-wise B-11
+ 
+standard B-11
+algorithm I-11
+ 
+time B-11
+ 
+time B-11
+complexity I-11
+ 
+time B-11
+wise I-11
+ 
+time-wise B-11
+ 
+tractable B-11
+ 
+traversal B-11
+ 
+traverse B-11
+ 
+tree B-11
+traversal I-11
+ 
+tree-traversal B-11
+ 
+unambiguous B-11
+ 
+unambiguous B-11
+syntax I-11
+ 
+undirected B-11
+ 
+undirected B-11
+graph I-11
+ 
+unweighted B-11
+ 
+used B-11
+in I-11
+stack I-11
+ 
+write B-11
+algorithms I-11
+ 
+writing B-11
+algorithms I-11
+ 
+!= B-12
+ 
+( ) B-12
+ 
+/ B-12
+ 
+< B-12
+ 
+<= B-12
+ 
+<> B-12
+ 
+= B-12
+ 
+== B-12
+ 
+> B-12
+ 
+>= B-12
+ 
+addition B-12
+ 
+advantage B-12
+ 
+annotaion B-12
+ 
+append B-12
+item I-12
+to I-12
+list I-12
+ 
+append B-12
+to I-12
+list I-12
+ 
+assignment B-12
+ 
+by B-12
+reference I-12
+ 
+by B-12
+value I-12
+ 
+byte-code B-12
+ 
+bytecode B-12
+ 
+call B-12
+by I-12
+reference I-12
+ 
+call B-12
+by I-12
+value I-12
+ 
+compare B-12
+ 
+comparison B-12
+ 
+comparison B-12
+operator I-12
+ 
+comparison B-12
+operators I-12
+ 
+computer B-12
+language I-12
+type I-12
+ 
+concatenation B-12
+ 
+concept B-12
+exception I-12
+handling I-12
+ 
+condition B-12
+ 
+condition B-12
+controlled I-12
+ 
+condition-controlled B-12
+ 
+conditional B-12
+ 
+constant B-12
+ 
+constant B-12
+declaration I-12
+ 
+count B-12
+controlled I-12
+ 
+count-controlled B-12
+ 
+date B-12
+ 
+date B-12
+to I-12
+string I-12
+ 
+date-to-string B-12
+ 
+definite B-12
+ 
+DIV B-12
+ 
+division B-12
+ 
+empty B-12
+ 
+emptying B-12
+ 
+equal B-12
+to I-12
+ 
+event B-12
+driven I-12
+ 
+event-driven B-12
+ 
+exchange B-12
+ 
+expression B-12
+ 
+expressions B-12
+ 
+float B-12
+division I-12
+ 
+float B-12
+to I-12
+string I-12
+ 
+float-to-string B-12
+ 
+for B-12
+ 
+HLT B-12
+ 
+greater B-12
+than I-12
+ 
+greater B-12
+than I-12
+or I-12
+equal I-12
+to I-12
+ 
+imperative B-12
+ 
+imperative B-12
+programming I-12
+ 
+indefinite B-12
+ 
+index B-12
+ 
+indexed B-12
+ 
+indexed B-12
+sequential I-12
+ 
+indexing B-12
+ 
+indirect B-12
+ 
+INP B-12
+ 
+integer B-12
+ 
+integer B-12
+division I-12
+ 
+integer B-12
+to I-12
+string I-12
+ 
+integer-to-string B-12
+ 
+integers B-12
+ 
+iteration B-12
+ 
+iterations B-12
+ 
+iterative B-12
+ 
+iterative B-12
+development I-12
+ 
+iterative B-12
+process I-12
+ 
+language B-12
+ 
+language B-12
+syntax I-12
+ 
+LDA B-12
+ 
+length B-12
+ 
+less B-12
+than I-12
+ 
+less B-12
+than I-12
+or I-12
+equal I-12
+to I-12
+ 
+libraries B-12
+ 
+list B-12
+of I-12
+integers I-12
+ 
+list B-12
+of I-12
+numbers I-12
+ 
+list B-12
+of I-12
+strings I-12
+ 
+Little B-12
+Man I-12
+computer I-12
+ 
+mark B-12
+up I-12
+language I-12
+ 
+mark-up B-12
+language I-12
+ 
+maximum B-12
+ 
+minimum B-12
+ 
+MOD B-12
+ 
+multi B-12
+level I-12
+index I-12
+ 
+multi-level B-12
+index I-12
+ 
+named B-12
+constant I-12
+ 
+nested B-12
+ 
+not B-12
+equal I-12
+to I-12
+ 
+OUT B-12
+ 
+output B-12
+ 
+outputs B-12
+ 
+parenthesis B-12
+ 
+position B-12
+ 
+positions B-12
+ 
+procedural B-12
+ 
+procedural B-12
+abstraction I-12
+ 
+procedural B-12
+programming I-12
+ 
+procedural B-12
+programming I-12
+paradigm I-12
+ 
+procedure B-12
+ 
+procedure B-12
+call I-12
+ 
+procedure B-12
+calling I-12
+ 
+procedures B-12
+ 
+program B-12
+ 
+program B-12
+construction I-12
+ 
+programmed B-12
+solution I-12
+ 
+programming B-12
+ 
+programming B-12
+constructs I-12
+ 
+programming B-12
+language I-12
+ 
+programming B-12
+languages I-12
+ 
+programming B-12
+paradigm I-12
+ 
+programming B-12
+paradigms I-12
+ 
+programming B-12
+routine I-12
+ 
+programming B-12
+routines I-12
+ 
+programs B-12
+ 
+random B-12
+number I-12
+generation I-12
+ 
+random B-12
+number I-12
+generator I-12
+ 
+regular B-12
+expression I-12
+ 
+regular B-12
+expressions I-12
+ 
+regular B-12
+language I-12
+ 
+repetition B-12
+ 
+repetitions B-12
+ 
+return B-12
+ 
+return B-12
+address I-12
+ 
+return B-12
+addresses I-12
+ 
+return B-12
+head I-12
+of I-12
+list I-12
+ 
+return B-12
+length I-12
+of I-12
+list I-12
+ 
+return B-12
+tail I-12
+of I-12
+list I-12
+ 
+return B-12
+value I-12
+ 
+simple B-12
+program I-12
+ 
+simple B-12
+programs I-12
+ 
+STA B-12
+ 
+statement B-12
+ 
+stored B-12
+program I-12
+ 
+stored B-12
+programs I-12
+ 
+string B-12
+ 
+string B-12
+conversion I-12
+operation I-12
+ 
+string B-12
+conversion I-12
+operations I-12
+ 
+string B-12
+handling I-12
+ 
+string B-12
+manipulation I-12
+ 
+string B-12
+to I-12
+data I-12
+ 
+string B-12
+to I-12
+float I-12
+ 
+string B-12
+to I-12
+integer I-12
+ 
+string B-12
+to I-12
+time I-12
+ 
+string-to-date B-12
+ 
+string-to-float B-12
+ 
+string-to-integer B-12
+ 
+string-to-time B-12
+ 
+strings B-12
+ 
+SUB B-12
+ 
+sub B-12
+program I-12
+ 
+sub B-12
+programs I-12
+ 
+sub B-12
+routine I-12
+ 
+sub B-12
+routines I-12
+ 
+sub-program B-12
+ 
+sub-programs B-12
+ 
+sub-routine B-12
+ 
+sub-routines B-12
+ 
+subprogram B-12
+ 
+subprograms B-12
+ 
+subroutine B-12
+ 
+subroutines B-12
+ 
+substring B-12
+ 
+tail B-12
+ 
+time B-12
+to I-12
+string I-12
+ 
+time-to-string B-12
+ 
+type B-12
+ 
+type B-12
+to I-12
+string I-12
+ 
+value B-12
+ 
+values B-12
+ 
+variable B-12
+ 
+variable B-12
+declaration I-12
+ 
+variable B-12
+length I-12
+ 
+variable B-12
+list I-12
+ 
+variable B-12
+lists I-12
+ 
+variable B-12
+scope I-12
+ 
+variables B-12
+ 
+while B-12
+ 
+word B-12
+ 
+word B-12
+length I-12
+ 
+write B-12
+ 
+writing B-12
+ 
+ 
+[] B-13
+ 
+to B-13
+function I-13
+ 
+A  B-13
+to I-13
+B B-13
+ 
+A  B-13
+to I-13
+B B-13
+function 
+ 
+abstract B-13
+method I-13
+ 
+add: B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+add: B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+function I-13
+ 
+aggregation B-13
+ 
+append B-13
+item I-13
+to I-13
+list I-13
+ 
+argument B-13
+ 
+argument B-13
+function I-13
+ 
+argument B-13
+type I-13
+ 
+base B-13
+case  I-13
+ 
+casting B-13
+ 
+child B-13
+ 
+class B-13
+ 
+class B-13
+diagram I-13
+ 
+classes B-13
+ 
+construct B-13
+ 
+construction B-13
+ 
+constructor B-13
+ 
+constructs B-13
+ 
+DAT B-13
+ 
+data B-13
+object I-13
+ 
+data B-13
+objects I-13
+ 
+Delphi B-13
+ 
+Delphi B-13
+XE I-13
+ 
+elegant B-13
+ 
+encapsulate B-13
+ 
+encapsulation B-13
+ 
+explicit B-13
+ 
+f B-13
+add: I-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+f B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+f B-13
+integer I-13
+x I-13
+integer I-13
+ 
+f B-13
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+F# B-13
+ 
+filter B-13
+ 
+first B-13
+class I-13
+object I-13
+ 
+first-class B-13
+object I-13
+ 
+fold B-13
+ 
+function B-13
+ 
+function B-13
+application I-13
+ 
+function B-13
+call I-13
+ 
+function B-13
+add: I-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+function B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+function B-13
+integer I-13
+x I-13
+integer I-13
+ 
+function B-13
+integer I-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+function B-13
+interpretations I-13
+ 
+function B-13
+to I-13
+each I-13
+element I-13
+ 
+function B-13
+type I-13
+ 
+functional B-13
+ 
+functional B-13
+language I-13
+ 
+functional B-13
+languages I-13
+ 
+functional B-13
+paradigm I-13
+ 
+functional B-13
+paradigms I-13
+ 
+functional B-13
+programming I-13
+ 
+functions B-13
+ 
+general B-13
+case I-13
+ 
+global B-13
+ 
+global B-13
+variable I-13
+ 
+global B-13
+variables I-13
+ 
+Haskell B-13
+ 
+head B-13
+ 
+high B-13
+level I-13
+ 
+high B-13
+level I-13
+language I-13
+ 
+high-level B-13
+ 
+high-level B-13
+language I-13
+ 
+higher-order B-13
+ 
+higher-order B-13
+functions I-13
+ 
+identifier B-13
+ 
+identifier B-13
+name I-13
+ 
+identifier B-13
+names I-13
+ 
+implicit B-13
+ 
+inheritance B-13
+ 
+instantiation B-13
+ 
+integer B-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+integer B-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+function I-13
+ 
+integer B-13
+x I-13
+integer I-13
+ 
+integer B-13
+x I-13
+integer I-13
+function I-13
+ 
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+function I-13
+ 
+linked B-13
+list I-13
+ 
+linked-list B-13
+ 
+linked B-13
+lists I-13
+ 
+linked-lists B-13
+ 
+Lisp B-13
+ 
+list B-13
+of I-13
+objects I-13
+ 
+local B-13
+ 
+local B-13
+variable I-13
+ 
+local B-13
+variables I-13
+ 
+low B-13
+level I-13
+ 
+low-level B-13
+ 
+method B-13
+ 
+methods B-13
+ 
+modular B-13
+ 
+modular B-13
+programming I-13
+ 
+modularity B-13
+ 
+object B-13
+ 
+object B-13
+oriented I-13
+ 
+object B-13
+oriented I-13
+approach I-13
+ 
+object B-13
+oriented I-13
+program I-13
+ 
+object B-13
+oriented I-13
+programming I-13
+ 
+object B-13
+oriented I-13
+programming I-13
+paradigm I-13
+ 
+object B-13
+oriented I-13
+programs I-13
+ 
+object B-13
+oriented I-13
+techniques I-13
+ 
+object-oriented B-13
+ 
+object-oriented B-13
+approach I-13
+ 
+object-oriented B-13
+program I-13
+ 
+object-oriented B-13
+programming I-13
+ 
+object-oriented B-13
+programming I-13
+paradigm I-13
+ 
+object-oriented B-13
+programs I-13
+ 
+object-oriented B-13
+techniques I-13
+ 
+OO B-13
+ 
+OOP B-13
+ 
+over-riding B-13
+ 
+overriding B-13
+ 
+parent B-13
+ 
+partial B-13
+function I-13
+application I-13
+ 
+polymorphism B-13
+ 
+private B-13
+ 
+properties B-13
+ 
+properties B-13
+of I-13
+objects I-13
+ 
+property B-13
+ 
+property B-13
+attribute I-13
+ 
+public B-13
+ 
+recursion B-13
+ 
+reduce B-13
+ 
+relative B-13
+advantage I-13
+ 
+result B-13
+type I-13
+ 
+Scala B-13
+ 
+scheme B-13
+ 
+source B-13
+code I-13
+ 
+source B-13
+program I-13
+ 
+source B-13
+programs I-13
+ 
+specifier B-13
+ 
+standard B-13
+function I-13
+ 
+standard B-13
+functions I-13
+ 
+standard B-13
+ML I-13
+ 
+standard B-13
+module I-13
+ 
+standard B-13
+modules I-13
+ 
+static B-13
+ 
+static B-13
+method I-13
+ 
+sub B-13
+domain I-13
+ 
+sub-domain B-13
+ 
+subset B-13
+of I-13
+object I-13
+to I-13
+single I-13
+value I-13
+ 
+UML B-13
+ 
+UML B-13
+composition I-13
+ 
+Unified B-13
+Modelling I-13
+Language I-13
+ 
+user B-13
+exception I-13
+handling I-13
+ 
+user B-13
+defined I-13
+ 
+user-defined B-13
+ 
+VB.NET B-13
+ 
+virtual B-13
+method I-13
+ 
+virtual B-13
+methods I-13
+ 
+awareness B-14
+ 
+behaviour B-14
+ 
+censorship B-14
+ 
+code B-14
+of I-14
+conduct I-14
+ 
+codes B-14
+of I-14
+conduct I-14
+ 
+colour B-14
+paradigm I-14
+ 
+colour B-14
+paradigms I-14
+ 
+conduct B-14
+ 
+consequence B-14
+ 
+consequences B-14
+ 
+consider B-14
+ 
+cultural B-14
+ 
+culture B-14
+ 
+current B-14
+legislation I-14
+ 
+economic B-14
+ 
+economic B-14
+changes I-14
+ 
+economy B-14
+ 
+effect B-14
+ 
+effectiveness B-14
+ 
+effects B-14
+ 
+employment B-14
+ 
+envrionment B-14
+ 
+ethical B-14
+ 
+freedom B-14
+of I-14
+information I-14
+ 
+individual B-14
+ 
+individuals B-14
+ 
+industrial B-14
+ 
+issue B-14
+ 
+issues B-14
+ 
+layout B-14
+ 
+legal B-14
+ 
+legislation B-14
+ 
+manage B-14
+ 
+management B-14
+ 
+monitor B-14
+ 
+monitoring B-14
+ 
+moral B-14
+ 
+morals B-14
+ 
+offensive B-14
+ 
+opportunities B-14
+ 
+opporunity B-14
+ 
+personal B-14
+information I-14
+ 
+piracy B-14
+ 
+power B-14
+ 
+privacy B-14
+ 
+professional B-14
+behaviour I-14
+ 
+professional B-14
+groups I-14
+ 
+risk B-14
+ 
+risks B-14
+ 
+scale B-14
+ 
+social B-14
+ 
+society B-14
+ 
+stakeholder B-14
+ 
+stakeholders B-14
+ 
+standard B-14
+ 
+standards B-14
+ 
+technology B-14
+ 
+The O
+Computer B-14
+Misuse I-14
+Act I-14
+ 
+The O
+Computer B-14
+Misuse I-14
+Act I-14
+1990 I-14
+ 
+The O
+Copyright B-14
+Design I-14
+and I-14
+Patents I-14
+Act I-14
+ 
+The O
+Copyright B-14
+Design I-14
+and I-14
+Patents I-14
+Act I-14
+1988 I-14
+ 
+The O
+Data B-14
+Protection I-14
+Act I-14
+ 
+The O
+Data B-14
+Protection I-14
+Act I-14
+1998 I-14
+ 
+The O
+Regulation B-14
+of I-14
+Investigatory I-14
+Powers I-14
+Act I-14
+ 
+The O
+Regulation B-14
+of I-14
+Investigatory I-14
+Powers I-14
+Act I-14
+2000 I-14
+ 
+third B-14
+parties I-14
+ 
+wider B-14
+community I-14
+ 
+wider B-14
+society I-14
+ 
+workforce B-14
+ 
+design B-15
+human I-15
+user I-15
+interface I-15
+ 
+human B-15
+ 
+human-computer B-15
+interaction I-15
+ 
+human B-15
+user I-15
+interface I-15
+ 
+IDE B-15
+ 
+IDLE B-15
+ 
+integrated B-15
+development I-15
+environment I-15
+ 
+integrated B-15
+development I-15
+learning I-15
+environment I-15
+ 
+interface B-15
+ 
+interfaces B-15
+ 
+natural B-15
+language I-15
+interface I-15
+ 
+user B-15
+interface I-15
+ 
+user B-15
+requirements I-15
+ 
+address B-16
+allow I-16
+list I-16
+ 
+anonymous B-16
+ 
+API B-16
+definition I-16
+ 
+app B-16
+ 
+application B-16
+ 
+Application B-16
+Programming I-16
+Interface I-16
+ 
+asynchronous B-16
+ 
+bandwidth B-16
+ 
+baud B-16
+rate I-16
+ 
+bit B-16
+rate I-16
+ 
+broadcast B-16
+disabled I-16
+ 
+Carrier B-16
+Sense I-16
+Multiple I-16
+Access I-16
+with I-16
+Collision I-16
+Avoidance I-16
+ 
+check B-16
+digits I-16
+ 
+checksums B-16
+ 
+circuit B-16
+ 
+clear B-16
+to I-16
+send I-16
+ 
+client B-16
+ 
+client B-16
+server I-16
+ 
+client B-16
+side I-16
+ 
+client-server B-16
+ 
+cloud B-16
+based I-16
+technology I-16
+ 
+cloud B-16
+based I-16
+technology I-16
+services I-16
+ 
+communication B-16
+network I-16
+ 
+communication B-16
+networks I-16
+ 
+communications B-16
+ 
+connected B-16
+ 
+contemporary B-16
+protocols I-16
+ 
+correction B-16
+ 
+create B-16
+read I-16
+update I-16
+and I-16
+delete I-16
+ 
+create B-16
+read I-16
+update I-16
+delete I-16
+ 
+CRUD B-16
+ 
+CSMA/CA B-16
+ 
+CTS B-16
+ 
+Delete B-16
+ 
+Delete B-16
+ 
+DELETE B-16
+to I-16
+DELETE I-16
+ 
+DHCP B-16
+ 
+domain B-16
+name I-16
+system I-16
+ 
+domain B-16
+service I-16
+ 
+Dynamic B-16
+Host I-16
+Configuration I-16
+Protocol I-16
+ 
+email B-16
+server I-16
+ 
+email B-16
+servers I-16
+ 
+FTP B-16
+ 
+FTP B-16
+client I-16
+software I-16
+ 
+FTP B-16
+server I-16
+ 
+full B-16
+duplex I-16
+ 
+GET B-16
+ 
+GET B-16
+to I-16
+SELECT I-16
+ 
+host B-16
+ 
+host B-16
+identifier I-16
+ 
+hosts B-16
+ 
+internt B-16
+ 
+internet B-16
+protocol I-16
+ 
+IP B-16
+ 
+IP B-16
+address I-16
+ 
+IP B-16
+standard I-16
+ 
+JSON B-16
+ 
+LAN B-16
+ 
+latency B-16
+ 
+layer B-16
+ 
+layering B-16
+ 
+link B-16
+ 
+local B-16
+area I-16
+network I-16
+ 
+logical B-16
+bus I-16
+network I-16
+ 
+log B-16
+in I-16
+ 
+log-in B-16
+ 
+login B-16
+ 
+MAC B-16
+ 
+Media B-16
+Access I-16
+Control I-16
+ 
+MAC B-16
+address I-16
+ 
+Media B-16
+Access I-16
+Control I-16
+address I-16
+ 
+message B-16
+ 
+messages B-16
+ 
+multiplexing B-16
+ 
+NAT B-16
+ 
+network B-16
+ 
+Network B-16
+Address I-16
+Translation I-16
+ 
+network B-16
+collision I-16
+ 
+network B-16
+collisions I-16
+ 
+network B-16
+collision I-16
+detection I-16
+ 
+network B-16
+connection I-16
+ 
+network B-16
+connections I-16
+ 
+network B-16
+hardware I-16
+ 
+network B-16
+identifier I-16
+ 
+network B-16
+identifiers I-16
+ 
+network B-16
+sensor I-16
+ 
+network B-16
+sensors I-16
+ 
+networked B-16
+sensor I-16
+ 
+networked B-16
+sensors I-16
+ 
+networking B-16
+ 
+networking B-16
+standard I-16
+ 
+networking B-16
+standards I-16
+ 
+networks B-16
+ 
+non B-16
+anonymous I-16
+ 
+non-anonymous B-16
+ 
+non B-16
+routable I-16
+ 
+non-routable B-16
+ 
+packet B-16
+ 
+packet B-16
+content I-16
+ 
+packet B-16
+contents I-16
+ 
+packet B-16
+filering I-16
+ 
+packet B-16
+switching I-16
+ 
+packets B-16
+ 
+parallel B-16
+transmission I-16
+ 
+parity B-16
+bits I-16
+ 
+part B-16
+ 
+peer B-16
+to I-16
+peer I-16
+ 
+peer-to-peer B-16
+ 
+physical B-16
+start I-16
+ 
+POP3 B-16
+ 
+port B-16
+ 
+port B-16
+forwarding I-16
+ 
+ports B-16
+ 
+POST B-16
+to I-16
+INSERT I-16
+ 
+Post B-16
+Office I-16
+Protocol I-16
+ 
+protocol B-16
+ 
+protocol B-16
+layering I-16
+ 
+protocols B-16
+ 
+proxy B-16
+ 
+proxies B-16
+ 
+proxy B-16
+server I-16
+ 
+proxy B-16
+servers I-16
+ 
+PUT B-16
+to I-16
+UPDATE I-16
+ 
+rate B-16
+ 
+remote B-16
+ 
+remote B-16
+computer I-16
+ 
+remote B-16
+management I-16
+ 
+request B-16
+ 
+request B-16
+to I-16
+send I-16
+ 
+REST B-16
+ 
+Retrieve B-16
+ 
+retieving B-16
+email I-16
+ 
+routable B-16
+ 
+router B-16
+ 
+routers B-16
+ 
+routing B-16
+method I-16
+ 
+routing B-16
+methods I-16
+ 
+routing B-16
+traffic I-16
+ 
+RTS B-16
+ 
+RTS/CTS B-16
+ 
+run B-16
+length I-16
+ 
+run B-16
+length I-16
+encoding I-16
+ 
+Secure B-16
+Shell I-16
+ 
+send B-16
+email I-16
+ 
+sending B-16
+email I-16
+ 
+seiral B-16
+ 
+serial B-16
+transmission I-16
+ 
+server B-16
+ 
+server B-16
+side I-16
+ 
+servers B-16
+ 
+Service B-16
+Set I-16
+Identifier I-16
+ 
+simplex B-16
+ 
+Simple B-16
+Mail I-16
+Transfer I-16
+Protocol I-16
+ 
+SMTP B-16
+ 
+socket B-16
+ 
+sockets B-16
+ 
+SSH B-16
+ 
+SSH B-16
+client I-16
+ 
+SSID B-16
+ 
+start B-16
+ 
+stop B-16
+ 
+subnet B-16
+ 
+subnet B-16
+mask I-16
+ 
+switch B-16
+ 
+switches B-16
+ 
+switching B-16
+ 
+synchronous B-16
+ 
+TCP B-16
+ 
+TCP B-16
+connection I-16
+ 
+TCP/IP B-16
+ 
+TCP/IP B-16
+stack I-16
+ 
+TCP/IP B-16
+stacks I-16
+ 
+thick B-16
+client I-16
+ 
+thick-client B-16
+ 
+thin B-16
+client I-16
+ 
+thin-client B-16
+ 
+topology B-16
+ 
+tranfer B-16
+file I-16
+ 
+transmission B-16
+ 
+transmission B-16
+control I-16
+protocol I-16
+ 
+transmission B-16
+method I-16
+ 
+transmission B-16
+methods I-16
+ 
+UDP B-16
+ 
+user B-16
+datagram I-16
+protocol I-16
+ 
+WAN B-16
+ 
+Websocket B-16
+protocol I-16
+ 
+well B-16
+known I-16
+ 
+well-known B-16
+ 
+wide B-16
+area I-16
+network I-16
+ 
+WiFi B-16
+ 
+Wi-Fi B-16
+ 
+WiFi B-16
+protected I-16
+access I-16
+ 
+Wi-Fi B-16
+protected I-16
+access I-16
+ 
+wireless B-16
+ 
+wireless B-16
+access I-16
+point I-16
+ 
+wireless B-16
+communication I-16
+protocol I-16
+ 
+wireless B-16
+communication I-16
+protocols I-16
+ 
+wireless B-16
+connection I-16
+ 
+wireless B-16
+network I-16
+adapter I-16
+ 
+wireless B-16
+technology I-16
+ 
+with B-16
+ 
+without B-16
+ 
+WAP B-16
+ 
+WNA B-16
+ 
+WPA B-16
+ 
+WPA2 B-16
+ 
+XML B-16
+ 
+a(a|b)* B-17
+ 
+abstract B-17
+ 
+abstract B-17
+model I-17
+ 
+abstract B-17
+models I-17
+ 
+abstraction B-17
+ 
+abstractions B-17
+ 
+action B-17
+ 
+actions B-17
+ 
+Alan B-17
+Turing I-17
+ 
+alphabet B-17
+of I-17
+symbols I-17
+ 
+alternation B-17
+ 
+backtracking B-17
+ 
+Backus B-17
+Naur I-17
+ 
+Backus-Naur B-17
+ 
+Backus B-17
+Naur I-17
+form I-17
+ 
+Backus-Naur B-17
+form I-17
+ 
+BNF B-17
+ 
+category B-17
+ 
+categories B-17
+ 
+categorisation B-17
+ 
+categorization B-17
+ 
+combine B-17
+procedures I-17
+ 
+composition B-17
+ 
+compositions B-17
+ 
+compound B-17
+procedure I-17
+ 
+compound B-17
+procedures I-17
+ 
+computable B-17
+ 
+computation B-17
+ 
+computational B-17
+ 
+computational B-17
+method I-17
+ 
+computational B-17
+methods I-17
+ 
+computational B-17
+pattern I-17
+ 
+computational B-17
+patterns I-17
+ 
+computational B-17
+solution I-17
+ 
+computational B-17
+solutions I-17
+ 
+computational B-17
+thinking I-17
+ 
+computations B-17
+ 
+concurrency B-17
+ 
+concurrent B-17
+ 
+concurrent B-17
+processing I-17
+ 
+data B-17
+abstraction I-17
+ 
+decision B-17
+ 
+decisions B-17
+ 
+decompose B-17
+ 
+decomposition B-17
+ 
+feature B-17
+ 
+features B-17
+ 
+finite B-17
+ 
+finite B-17
+alphabet I-17
+of I-17
+symbols I-17
+ 
+finite B-17
+set I-17
+of I-17
+states I-17
+ 
+finite B-17
+state I-17
+machine I-17
+ 
+finite B-17
+state I-17
+machines I-17
+ 
+flow B-17
+ 
+FSM B-17
+ 
+functional B-17
+ 
+functional B-17
+abstraction I-17
+ 
+functional B-17
+abstractions I-17
+ 
+functional B-17
+characteristic I-17
+ 
+functional B-17
+characteristics I-17
+ 
+functional B-17
+composition I-17
+ 
+functional B-17
+compositions I-17
+ 
+generalisation B-17
+ 
+group B-17
+ 
+groups B-17
+ 
+halting B-17
+state I-17
+ 
+hand B-17
+trace I-17
+ 
+hand-trace B-17
+ 
+hiding B-17
+details I-17
+ 
+hierarchical B-17
+relationship I-17
+ 
+implementation B-17
+ 
+infinite B-17
+taps I-17
+ 
+limit B-17
+ 
+limits B-17
+ 
+machine B-17
+ 
+machines B-17
+ 
+marked B-17
+off I-17
+squares I-17
+ 
+marked-off B-17
+squares I-17
+ 
+matching B-17
+tokens ClassLabel
+ 
+-DOCSTART- O
+ 
+alpha B-1
+ 
+application B-1
+software I-1
+ 
+applications B-1
+ 
+assembly B-1
+language I-1
+ 
+backup B-1
+ 
+basic B-1
+input/output I-1
+system I-1
+ 
+BIOS B-1
+ 
+changeover B-1
+ 
+compilation B-1
+ 
+compilation B-1
+process I-1
+ 
+computer B-1
+ 
+computer B-1
+aided I-1
+design I-1
+ 
+computer B-1
+application I-1
+ 
+computer B-1
+applications I-1
+ 
+computer B-1
+control I-1
+ 
+computer B-1
+generated I-1
+ 
+computer B-1
+generated I-1
+animation I-1
+ 
+computer B-1
+system I-1
+ 
+computer B-1
+use I-1
+ 
+computers B-1
+ 
+contents B-1
+ 
+corrective B-1
+ 
+corrective B-1
+maintenance I-1
+ 
+cost B-1
+effective I-1
+ 
+create B-1
+solution I-1
+ 
+current B-1
+system I-1
+ 
+data B-1
+flow I-1
+ 
+design B-1
+evaluation I-1
+ 
+design B-1
+review I-1
+ 
+design B-1
+validation I-1
+ 
+developmental B-1
+testing I-1
+ 
+diagram B-1
+ 
+distributed B-1
+ 
+distributed B-1
+system I-1
+ 
+distributed B-1
+systems I-1
+ 
+efficiency B-1
+ 
+erroneous B-1
+data I-1
+ 
+error B-1
+ 
+errors B-1
+ 
+executable B-1
+ 
+final B-1
+system I-1
+ 
+first B-1
+come I-1
+first I-1
+served I-1
+ 
+flow B-1
+ 
+flow B-1
+of I-1
+data I-1
+ 
+flowchart B-1
+ 
+flowcharts B-1
+ 
+further B-1
+development I-1
+ 
+input/output B-1
+ 
+input/output B-1
+system I-1
+ 
+interaction B-1
+ 
+intermediate B-1
+code I-1
+ 
+intermediate B-1
+language I-1
+ 
+invalid B-1
+idata I-1
+ 
+lost B-1
+data I-1
+ 
+maintainability B-1
+ 
+maintenance B-1
+ 
+merit B-1
+ 
+merits B-1
+ 
+output B-1
+to I-1
+screen I-1
+ 
+outputting B-1
+to I-1
+screen I-1
+ 
+perfective B-1
+ 
+perfective B-1
+maintenance I-1
+ 
+pilot B-1
+ 
+program B-1
+test I-1
+ 
+program B-1
+testing I-1
+ 
+program B-1
+tests I-1
+ 
+review B-1
+ 
+safety B-1
+ 
+safety B-1
+critical I-1
+ 
+safety B-1
+critical I-1
+system I-1
+ 
+safety B-1
+critical I-1
+systems I-1
+ 
+semantic B-1
+ 
+semantic B-1
+analysis I-1
+ 
+semantics B-1
+ 
+system B-1
+ 
+system B-1
+software I-1
+ 
+systems B-1
+ 
+systems B-1
+analysis I-1
+ 
+systems B-1
+software I-1
+ 
+time B-1
+scale I-1
+ 
+waterfall B-1
+ 
+architecture B-2
+ 
+architectures B-2
+ 
+assembler B-2
+ 
+assemblers B-2
+ 
+barcode B-2
+reader I-2
+ 
+bespoke B-2
+ 
+capacity B-2
+ 
+command B-2
+ 
+commands B-2
+ 
+communication B-2
+ 
+communication B-2
+element I-2
+ 
+communication B-2
+elements I-2
+ 
+communications B-2
+ 
+compiler B-2
+ 
+compilers B-2
+ 
+component B-2
+ 
+components B-2
+ 
+computer B-2
+architecture I-2
+ 
+computer B-2
+architectures I-2
+ 
+contemporary B-2
+secondary I-2
+storage I-2
+device I-2
+ 
+control B-2
+system I-2
+ 
+control B-2
+systems I-2
+ 
+correspondence B-2
+ 
+data B-2
+storage I-2
+ 
+defragmentation B-2
+ 
+dependability B-2
+ 
+device B-2
+ 
+device B-2
+allocation I-2
+ 
+devices B-2
+ 
+disc B-2
+ 
+disc B-2
+storage I-2
+ 
+discs B-2
+ 
+embedded B-2
+ 
+expert B-2
+system I-2
+ 
+expert B-2
+systems I-2
+ 
+flash B-2
+ 
+fragmentation B-2
+ 
+general B-2
+input I-2
+ 
+half B-2
+duplex I-2
+ 
+handshaking B-2
+ 
+hard B-2
+disk I-2
+ 
+hardware B-2
+ 
+hardware B-2
+element I-2
+ 
+hardware B-2
+elements I-2
+ 
+Harvard B-2
+ 
+I/O B-2
+controller I-2
+ 
+I/O B-2
+controllers I-2
+ 
+I/O B-2
+device I-2
+ 
+I/O B-2
+devices I-2
+ 
+identification B-2
+ 
+input B-2
+ 
+input/output B-2
+controller I-2
+ 
+input/output B-2
+controllers I-2
+ 
+input/output B-2
+device I-2
+ 
+input/output B-2
+devices I-2
+ 
+internal B-2
+ 
+interpretation B-2
+ 
+interpreter B-2
+ 
+interpreters B-2
+ 
+laser B-2
+printer I-2
+ 
+limit B-2
+ 
+magnetic B-2
+ 
+magnetic B-2
+disc I-2
+drive I-2
+ 
+main B-2
+components I-2
+ 
+main B-2
+memory I-2
+ 
+master B-2
+ 
+memory B-2
+ 
+optical B-2
+ 
+optical B-2
+disk I-2
+ 
+organisation B-2
+ 
+organise B-2
+ 
+paging B-2
+ 
+parallelisation B-2
+ 
+portable B-2
+device I-2
+ 
+print B-2
+ 
+printer B-2
+ 
+printers B-2
+ 
+radio B-2
+frequency I-2
+identification I-2
+ 
+RAM B-2
+ 
+random-access B-2
+memory I-2
+ 
+random B-2
+access I-2
+memory I-2
+ 
+RFID B-2
+ 
+ROM B-2
+ 
+read-only B-2
+memory I-2
+ 
+read B-2
+only I-2
+memory I-2
+ 
+screen B-2
+ 
+screen B-2
+layout I-2
+ 
+screens B-2
+ 
+secondary B-2
+ 
+secondary B-2
+storage I-2
+ 
+secondary B-2
+storage I-2
+device I-2
+ 
+solid-state B-2
+disk I-2
+ 
+solid B-2
+state I-2
+disk I-2
+ 
+SSD B-2
+ 
+storage B-2
+ 
+storage B-2
+requirements I-2
+ 
+storage B-2
+space I-2
+ 
+technical B-2
+ 
+unit B-2
+ 
+virtual B-2
+ 
+virtual B-2
+machine I-2
+ 
+virtual B-2
+machines I-2
+ 
+vocabulary B-2
+dictation I-2
+system I-2
+ 
+voice B-2
+input I-2
+ 
+voice B-2
+print I-2
+ 
+recognition B-2
+ 
+Von B-2
+Neumann I-2
+ 
+allocation B-3
+ 
+backing B-3
+store I-3
+ 
+batch B-3
+ 
+batch B-3
+processing I-3
+ 
+blocked B-3
+ 
+buffering B-3
+ 
+competing B-3
+ 
+data B-3
+transfer I-3
+ 
+data B-3
+transfer I-3
+rate I-3
+ 
+data B-3
+transfer I-3
+rates I-3
+ 
+data B-3
+transmission I-3
+ 
+data B-3
+transmissions I-3
+ 
+device B-3
+driver I-3
+ 
+device B-3
+drivers I-3
+ 
+directory B-3
+ 
+double B-3
+buffering I-3
+ 
+event B-3
+ 
+event B-3
+message I-3
+ 
+event B-3
+messages I-3
+ 
+generate B-3
+interrupt I-3
+ 
+hierarchical B-3
+structure I-3
+ 
+high-level B-3
+scheduling I-3
+ 
+job B-3
+priorities I-3
+ 
+job B-3
+priority I-3
+ 
+kernel B-3
+ 
+level B-3
+ 
+manage B-3
+backing I-3
+store I-3
+ 
+manage B-3
+resources I-3
+ 
+managing B-3
+backing I-3
+store I-3
+ 
+managing B-3
+resources I-3
+ 
+memory B-3
+management I-3
+ 
+memory B-3
+protection I-3
+ 
+mode B-3
+of I-3
+operation I-3
+ 
+multi B-3
+access I-3
+ 
+multi B-3
+programming I-3
+ 
+multi B-3
+tasking I-3
+ 
+multi B-3
+user I-3
+ 
+multi-access B-3
+ 
+multi-programming B-3
+ 
+multi-tasking B-3
+ 
+multi-user B-3
+ 
+nested B-3
+operating I-3
+system I-3
+ 
+operating B-3
+system I-3
+ 
+operating system B-3
+system I-3
+kernel I-3
+ 
+operating B-3
+system I-3
+ 
+operating B-3
+systems I-3
+ 
+OS B-3
+ 
+partition B-3
+ 
+PC B-3
+ 
+peripherals B-3
+ 
+personal B-3
+computer I-3
+ 
+polling B-3
+ 
+priority B-3
+ 
+program B-3
+translator I-3
+ 
+ready B-3
+ 
+real-time B-3
+ 
+real-time B-3
+control I-3
+ 
+real-time B-3
+transaction I-3
+ 
+real B-3
+time I-3
+ 
+real B-3
+time I-3
+control I-3
+ 
+real B-3
+time I-3
+transaction I-3
+ 
+resource B-3
+management I-3
+ 
+resources 
+ 
+running B-3
+ 
+scheduling B-3
+ 
+shortest B-3
+job I-3
+first I-3
+ 
+shortest B-3
+remaining I-3
+time I-3
+ 
+single-user B-3
+ 
+single B-3
+user I-3
+ 
+speed B-3
+ 
+standalone B-3
+ 
+threading B-3
+ 
+three process B-3
+process I-3
+state I-3
+ 
+three process B-3
+process I-3
+states I-3
+ 
+time-slicing B-3
+ 
+time B-3
+slicing I-3
+ 
+transaction B-3
+ 
+transaction B-3
+log I-3
+ 
+transaction B-3
+logs I-3
+ 
+transactions B-3
+ 
+user B-3
+ 
+utilities B-3
+ 
+utility B-3
+ 
+utility B-3
+program I-3
+ 
+utility B-3
+programs I-3
+ 
+utility B-3
+software I-3
+ 
+information B-4
+ 
+information B-4
+processing I-4
+ 
+error B-4
+checking I-4
+ 
+information B-4
+hiding I-4
+ 
+information B-4
+retrieval I-4
+ 
+information B-4
+system I-4
+ 
+information B-4
+systems I-4
+ 
+information B-4
+technology I-4
+ 
+IT B-4
+ 
+acceptance B-5
+ 
+adaptive B-5
+ 
+adaptive B-5
+maintenance I-5
+ 
+ambiguity B-5
+ 
+amibguities B-5
+ 
+annotated B-5
+listing I-5
+ 
+annotated B-5
+listings I-5
+ 
+annotated B-5
+test I-5
+run I-5
+ 
+annotation B-5
+ 
+annotations B-5
+ 
+apply B-5
+ 
+audience B-5
+ 
+beta B-5
+ 
+boundary B-5
+ 
+boundary B-5
+data I-5
+ 
+budget B-5
+ 
+closed B-5
+source I-5
+ 
+code B-5
+ 
+code B-5
+generation I-5
+ 
+code B-5
+optimisation I-5
+ 
+code B-5
+optimization I-5
+ 
+code B-5
+quality I-5
+ 
+commentary B-5
+ 
+commentaries B-5
+ 
+comment B-5
+ 
+comments B-5
+ 
+commercially B-5
+available I-5
+system I-5
+ 
+contemporary B-5
+application I-5
+ 
+contemporary B-5
+applications I-5
+ 
+contemporary B-5
+approach I-5
+ 
+contemporary B-5
+approaches I-5
+ 
+contemporary B-5
+architecture I-5
+ 
+contemporary B-5
+architectures I-5
+ 
+contemporary B-5
+computer I-5
+system I-5
+ 
+contemporary B-5
+computer I-5
+systems I-5
+ 
+contemporary B-5
+method I-5
+ 
+contemporary B-5
+methods I-5
+ 
+contemporary B-5
+process I-5
+ 
+contemporary B-5
+processes I-5
+ 
+correct B-5
+results I-5
+ 
+criteria B-5
+ 
+critical B-5
+path I-5
+ 
+data B-5
+model I-5
+ 
+debug B-5
+ 
+debugging B-5
+ 
+design B-5
+ 
+design B-5
+modular I-5
+structure I-5
+ 
+design B-5
+system I-5
+ 
+develop B-5
+ 
+development B-5
+ 
+development B-5
+process I-5
+ 
+development B-5
+stage I-5
+ 
+development B-5
+stages I-5
+ 
+document B-5
+ 
+documentation B-5
+ 
+evaluate B-5
+ 
+evaluation B-5
+ 
+extreme B-5
+programming I-5
+ 
+feasibility B-5
+ 
+feasibility B-5
+study I-5
+ 
+formal B-5
+method I-5
+ 
+formal B-5
+methods I-5
+ 
+functioning B-5
+system I-5
+ 
+high B-5
+level I-5
+dependability 
+ 
+high-level B-5
+dependability I-5
+ 
+improvement B-5
+ 
+lexical B-5
+analysis I-5
+ 
+lifecycle B-5
+ 
+linkers B-5
+ 
+memory B-5
+requirement I-5
+ 
+memory B-5
+requirements I-5
+ 
+methodology B-5
+ 
+model B-5
+ 
+modelling B-5
+ 
+models B-5
+ 
+object B-5
+code I-5
+ 
+off B-5
+the I-5
+shelf I-5
+ 
+off-the-shelf B-5
+ 
+open B-5
+source 
+ 
+open-source B-5
+ 
+program B-5
+layout I-5
+ 
+program B-5
+version I-5
+management I-5
+ 
+prototype B-5
+ 
+prototype B-5
+solution I-5
+ 
+prototype B-5
+system I-5
+ 
+prototyping B-5
+ 
+RAD B-5
+ 
+rapid B-5
+application I-5
+development I-5
+ 
+refine B-5
+ 
+refine B-5
+design I-5
+ 
+refine B-5
+designs I-5
+ 
+refine B-5
+understanding I-5
+ 
+refinement B-5
+ 
+segmentation B-5
+ 
+self B-5
+documenting I-5
+ 
+self-documenting B-5
+ 
+software B-5
+ 
+software B-5
+development I-5
+ 
+software B-5
+engineering I-5
+process I-5
+ 
+software B-5
+package I-5
+ 
+software B-5
+packages I-5
+ 
+software B-5
+system I-5
+ 
+software B-5
+systems I-5
+ 
+software B-5
+tool I-5
+ 
+software B-5
+tools I-5
+ 
+software B-5
+type I-5
+ 
+software B-5
+types I-5
+ 
+specialised B-5
+field I-5
+ 
+specialized B-5
+field I-5
+ 
+spiral B-5
+modal I-5
+ 
+stage B-5
+ 
+stages B-5
+ 
+structured B-5
+approach I-5
+ 
+structured B-5
+convention I-5
+ 
+system B-5
+design I-5
+ 
+system B-5
+specification I-5
+ 
+system B-5
+testing I-5
+ 
+systems B-5
+design I-5
+ 
+systems B-5
+specification I-5
+ 
+systems B-5
+testing I-5
+ 
+target B-5
+ 
+target B-5
+end I-5
+user I-5
+ 
+task B-5
+ 
+tasks B-5
+ 
+test B-5
+ 
+tests B-5
+ 
+testing B-5
+ 
+tool B-5
+ 
+tools B-5
+ 
+translation B-5
+ 
+translation B-5
+programs I-5
+ 
+translators B-5
+ 
+unit B-5
+test I-5
+ 
+unit B-5
+tests I-5
+ 
+unit B-5
+testing I-5
+ 
+virtual B-5
+memory I-5
+ 
+weather B-5
+forecasting I-5
+ 
+XP B-5
+ 
+0 B-6
+ 
+1 B-6
+ 
+ACC B-6
+ 
+accumulator B-6
+ 
+address B-6
+ 
+addressing B-6
+mode I-6
+ 
+ALU B-6
+ 
+arithmetic B-6
+logic I-6
+unit I-6
+ 
+arithmetic B-6
+unit I-6
+ 
+assembly B-6
+language I-6
+ 
+assembly B-6
+language I-6
+program I-6
+ 
+assembly B-6
+language I-6
+programs I-6
+ 
+basic B-6
+machine I-6
+operation I-6
+ 
+BRA B-6
+ 
+branching B-6
+ 
+BRP B-6
+ 
+BRZ B-6
+ 
+bus B-6
+ 
+buses B-6
+ 
+cache B-6
+ 
+cache B-6
+memory I-6
+ 
+caching B-6
+ 
+central B-6
+processing I-6
+unit I-6
+ 
+CIR B-6
+ 
+CISC B-6
+ 
+clearing B-6
+registers I-6
+ 
+clock B-6
+ 
+clock B-6
+speed I-6
+ 
+complex B-6
+instruction I-6
+set I-6
+computer I-6
+ 
+control B-6
+ 
+control B-6
+bus I-6
+ 
+control B-6
+buses I-6
+ 
+control B-6
+unit I-6
+ 
+core B-6
+ 
+cores B-6
+ 
+CPU B-6
+ 
+current B-6
+instruction I-6
+register I-6
+ 
+cycle B-6
+ 
+cycles B-6
+ 
+data B-6
+bus B-6
+ 
+data B-6
+bus I-6
+width I-6
+ 
+data B-6
+processing I-6
+ 
+datum B-6
+ 
+decode B-6
+ 
+dedicated B-6
+register I-6
+ 
+dedicated B-6
+registers I-6
+ 
+direct B-6
+ 
+execute B-6
+ 
+executing B-6
+the I-6
+code I-6
+ 
+execution B-6
+ 
+execution B-6
+error I-6
+ 
+execution B-6
+errors I-6
+ 
+fetch B-6
+ 
+fetch B-6
+decode I-6
+execute I-6
+cycle I-6
+ 
+fetch B-6
+execute I-6
+ 
+fetch B-6
+execute I-6
+cycle I-6
+ 
+fetch-decode-execute B-6
+cycle I-6
+ 
+fetch-execute B-6
+ 
+fetch-execute B-6
+cycle I-6
+ 
+general B-6
+purpose I-6
+register I-6
+ 
+general B-6
+purpose I-6
+registers I-6
+ 
+general-purpose B-6
+register I-6
+ 
+general-purpose B-6
+registers I-6
+ 
+GPU B-6
+ 
+graphics B-6
+processing I-6
+unit I-6
+ 
+halt B-6
+immediate I-6
+ 
+instruction B-6
+ 
+instruction B-6
+set I-6
+ 
+instructions B-6
+ 
+interrupt B-6
+ 
+interrupt B-6
+handling I-6
+ 
+interrupt B-6
+service I-6
+routine I-6
+ 
+interrupts B-6
+ 
+ISR B-6
+ 
+load B-6
+ 
+loader B-6
+ 
+loaders B-6
+ 
+machine B-6
+code I-6
+ 
+MAR B-6
+ 
+MDR B-6
+ 
+memory B-6
+address I-6
+ 
+memory B-6
+address I-6
+register I-6
+ 
+memory B-6
+data I-6
+register I-6
+ 
+memory B-6
+unit I-6
+ 
+mnemonic B-6
+ 
+mnemonic B-6
+form I-6
+ 
+multi B-6
+level I-6
+feedback I-6
+queries I-6
+ 
+multi-level B-6
+feedback I-6
+queries I-6
+ 
+multicore B-6
+ 
+multiple B-6
+cores I-6
+ 
+opcode B-6
+ 
+operand B-6
+ 
+operands B-6
+ 
+parallel B-6
+ 
+parallel B-6
+core I-6
+ 
+parallel B-6
+processing I-6
+ 
+performance B-6
+ 
+process B-6
+data I-6
+ 
+process B-6
+state I-6
+ 
+process B-6
+states I-6
+ 
+processess B-6
+ 
+processing B-6
+ 
+processing B-6
+stage I-6
+ 
+processing B-6
+stages I-6
+ 
+processor B-6
+ 
+processor B-6
+allocation I-6
+ 
+processor B-6
+architecture I-6
+ 
+processor B-6
+specific I-6
+ 
+processors B-6
+ 
+program B-6
+counter I-6
+ 
+reduced B-6
+instruction I-6
+set I-6
+computer I-6
+ 
+register B-6
+ 
+registers B-6
+ 
+RISC B-6
+ 
+role B-6
+ 
+shift B-6
+ 
+shift B-6
+function I-6
+ 
+shift B-6
+functions I-6
+ 
+shift B-6
+left I-6
+ 
+shift B-6
+right I-6
+ 
+shifts B-6
+ 
+status B-6
+register I-6
+ 
+sub-task B-6
+ 
+sub-tasks B-6
+ 
+subtask B-6
+ 
+subtasks B-6
+ 
+unconditional B-6
+ 
+1st Normal Form B-7
+ 
+2nd Normal Form B-7
+ 
+3rd Normal Form B-7
+ 
+1NF B-7
+ 
+2NF B-7
+ 
+3NF B-7
+ 
+ACID B-7
+ 
+atomicity B-7
+ 
+atomicity B-7
+consistency I-7
+isolation I-7
+durability I-7
+ 
+attribute B-7
+ 
+capture B-7
+ 
+Char(n) B-7
+ 
+commitment B-7
+ordering I-7
+ 
+composite B-7
+primary I-7
+key I-7
+ 
+conceptual B-7
+data I-7
+model I-7
+ 
+conceptual B-7
+data I-7
+models I-7
+ 
+concurrent B-7
+access I-7
+ 
+consistency B-7
+ 
+contemporary B-7
+database I-7
+system I-7
+ 
+CREATE B-7
+TABLE I-7
+ 
+data B-7
+consistency I-7
+ 
+data B-7
+dictionaries I-7
+ 
+data B-7
+dictionary I-7
+ 
+data B-7
+independence I-7
+ 
+data B-7
+manipulation I-7
+ 
+data B-7
+normalisation I-7
+ 
+data B-7
+normalization I-7
+ 
+data B-7
+redundancy I-7
+ 
+data B-7
+requirements I-7
+ 
+data B-7
+validation I-7
+ 
+data B-7
+vertification I-7
+ 
+data B-7
+warehousing I-7
+ 
+database B-7
+ 
+database B-7
+function I-7
+ 
+database B-7
+functions I-7
+ 
+database B-7
+management I-7
+system I-7
+ 
+database B-7
+management I-7
+systems I-7
+ 
+database B-7
+system I-7
+ 
+database B-7
+systems I-7
+ 
+database B-7
+table I-7
+ 
+database B-7
+tables I-7
+ 
+Date B-7
+Time I-7
+ 
+DBMS B-7
+ 
+define B-7
+ 
+DELETE B-7
+ 
+delete B-7
+data I-7
+ 
+distributed B-7
+database I-7
+ 
+distributed B-7
+databases I-7
+ 
+DROP B-7
+ 
+durability B-7
+ 
+entity B-7
+ 
+entity B-7
+relationship I-7
+ 
+entity B-7
+relationship I-7
+modelling I-7
+ 
+first B-7
+normal I-7
+form I-7
+ 
+flat B-7
+file I-7
+ 
+foreign B-7
+key I-7
+ 
+FROM B-7
+ 
+GROUP BY B-7
+ 
+IN B-7
+ 
+independence B-7
+ 
+infrasctructure B-7
+ 
+insert B-7
+ 
+INSERT B-7
+ 
+INSERT B-7
+INTO I-7
+ 
+Int B-7
+ 
+integrity B-7
+ 
+integrity B-7
+processes I-7
+ 
+isolation B-7
+ 
+JOIN B-7
+ 
+LIKE B-7
+ 
+management B-7
+system I-7
+ 
+management B-7
+systems I-7
+ 
+many B-7
+to I-7
+many I-7
+ 
+many-to-many B-7
+ 
+meaningful B-7
+ 
+mutiple B-7
+clients I-7
+ 
+multiple B-7
+tables I-7
+ 
+normal B-7
+form I-7
+ 
+normalisation B-7
+ 
+normalization B-7
+ 
+normalied B-7
+ 
+normalized B-7
+ 
+NOT B-7
+NULL I-7
+ 
+Numeric(m,n) B-7
+ 
+one B-7
+to I-7
+many I-7
+ 
+one B-7
+to I-7
+one I-7
+ 
+one-to-many B-7
+ 
+one-to-one B-7
+ 
+order B-7
+ 
+ORDER BY B-7
+ 
+predictive B-7
+analysis I-7
+ 
+PRIMARY B-7
+KEY I-7
+ 
+primary B-7
+keys I-7
+ 
+queries B-7
+ 
+query B-7
+ 
+query B-7
+language I-7
+ 
+record B-7
+ 
+record B-7
+locking I-7
+ 
+record B-7
+locks I-7
+ 
+records B-7
+ 
+redundancy B-7
+ 
+referential B-7
+ 
+relational B-7
+ 
+relational B-7
+database I-7
+ 
+relational B-7
+databases I-7
+ 
+relational B-7
+database I-7
+organisation I-7
+ 
+relational B-7
+database I-7
+organization I-7
+ 
+relational B-7
+database I-7
+system I-7
+ 
+relational B-7
+database I-7
+systems I-7
+ 
+relationship B-7
+modelling I-7
+ 
+relationships B-7
+ 
+restructure B-7
+data I-7
+ 
+searching B-7
+data I-7
+ 
+second B-7
+normal I-7
+form I-7
+ 
+secondary B-7
+key I-7
+ 
+SELECT B-7
+ 
+SELECT B-7
+* I-7
+FROM I-7
+ 
+SELECT B-7
+FROM I-7
+ 
+serialisation B-7
+ 
+serialization B-7
+ 
+simultaneous B-7
+access I-7
+ 
+SQL B-7
+ 
+structured B-7
+query I-7
+language I-7
+ 
+subquery B-7
+ 
+table B-7
+ 
+third B-7
+normal I-7
+form I-7
+ 
+timestamp B-7
+ordering I-7
+ 
+unnormalised B-7
+ 
+unnormalized B-7
+ 
+UPDATE B-7
+ 
+UPDATE B-7
+SET I-7
+ 
+updates B-7
+ 
+useful B-7
+ 
+valid B-7
+ 
+validation B-7
+ 
+verification B-7
+ 
+view B-7
+ 
+views B-7
+ 
+WHERE B-7
+ 
+WILDCARDS B-7
+ 
+big B-8
+data I-8
+ 
+cloud B-8
+ 
+correct B-8
+code I-8
+ 
+data B-8
+mining I-8
+ 
+distributed B-8
+code I-8
+ 
+distribution B-8
+ 
+distributed B-8
+ 
+edges B-8
+ 
+fact B-8
+based I-8
+model I-8
+ 
+graph B-8
+schema I-8
+ 
+immutable B-8
+data I-8
+structures I-8
+ 
+machine B-8
+learning I-8
+ 
+media B-8
+ 
+mouse B-8
+clicks I-8
+ 
+pattern B-8
+ 
+properties B-8
+ 
+re-organisation B-8
+ 
+re-organization B-8
+ 
+reorganisatoin B-8
+ 
+reorganization B-8
+ 
+single B-8
+piece I-8
+of I-8
+information I-8
+ 
+single B-8
+server I-8
+ 
+size B-8
+ 
+smartphone B-8
+ 
+smartphones B-8
+ 
+statelessness B-8
+ 
+stream B-8
+ 
+structure B-8
+of I-8
+dataset I-8
+ 
+unstructured B-8
+ 
+variety B-8
+ 
+velocity B-8
+ 
+video B-8
+surveillance I-8
+ 
+volume B-8
+ 
+1 B-9
+ 
+10^12 B-9
+ 
+10^3 B-9
+ 
+10^6 B-9
+ 
+10^9 B-9
+ 
+2^10 B-9
+ 
+2^20 B-9
+ 
+2^30 B-9
+ 
+2^40 B-9
+ 
+2^n B-9
+ 
+2n-1 B-9
+ 
+8 B-9
+bits I-9
+ 
+absolute B-9
+error I-9
+ 
+accuracy B-9
+ 
+arithmetic B-9
+shift I-9
+ 
+arithmetic B-9
+shifts I-9
+ 
+ASCII B-9
+ 
+base B-9
+ 
+base 10 B-9
+ 
+base 16 B-9
+ 
+base 2 B-9
+ 
+bit B-9
+ 
+bit B-9
+pattern I-9
+ 
+bit B-9
+patterns I-9
+ 
+bits B-9
+ 
+bitwise B-9
+ 
+bitwise B-9
+manipulation I-9
+ 
+byte B-9
+ 
+bytes B-9
+ 
+calculation B-9
+ 
+calculations B-9
+ 
+character B-9
+ 
+character B-9
+code I-9
+representation I-9
+ 
+character B-9
+code I-9
+to I-9
+character I-9
+ 
+character B-9
+set I-9
+ 
+character B-9
+sets I-9
+ 
+character B-9
+storage I-9
+ 
+character B-9
+to I-9
+character I-9
+code I-9
+ 
+characters B-9
+ 
+coding B-9
+character I-9
+data I-9
+ 
+conversion B-9
+ 
+convert B-9
+ 
+data B-9
+ 
+data B-9
+representation I-9
+ 
+dataset B-9
+ 
+decimal B-9
+ 
+decimal B-9
+digit I-9
+ 
+decimal B-9
+to I-9
+binary I-9
+ 
+denary B-9
+ 
+extreme B-9
+data I-9
+ 
+field B-9
+ 
+file B-9
+ 
+file B-9
+access I-9
+ 
+file B-9
+access I-9
+method I-9
+ 
+file B-9
+access I-9
+methods I-9
+ 
+file B-9
+archive I-9
+ 
+file B-9
+archives I-9
+ 
+file B-9
+attribute I-9
+ 
+file B-9
+attributes I-9
+ 
+file B-9
+back-up I-9
+ 
+file B-9
+backup I-9
+ 
+file B-9
+design I-9
+ 
+file B-9
+generations I-9
+ 
+file B-9
+handling I-9
+ 
+file B-9
+organisation I-9
+ 
+file B-9
+organization I-9
+ 
+file B-9
+re-organisation I-9
+ 
+file B-9
+re-organization I-9
+ 
+file B-9
+reorganisation I-9
+ 
+file B-9
+reorganization I-9
+ 
+file B-9
+server I-9
+ 
+file B-9
+servers I-9
+ 
+files B-9
+ 
+fixed B-9
+length I-9
+ 
+fixed-length B-9
+ 
+G B-9
+ 
+Gi B-9
+ 
+gibi B-9
+ 
+giga B-9
+ 
+handle B-9
+data I-9
+ 
+hexadecimal B-9
+ 
+hexadecimal B-9
+notation I-9
+ 
+inaccuracy B-9
+ 
+k B-9
+ 
+Ki B-9
+ 
+kibi B-9
+ 
+kilo B-9
+ 
+logical B-9
+shift I-9
+ 
+M B-9
+ 
+majority B-9
+voting I-9
+ 
+manage B-9
+overflow I-9
+ 
+mantissa B-9
+ 
+mantissa B-9
++ I-9
+exponent I-9
+ 
+mask B-9
+ 
+masking B-9
+encryption I-9
+ 
+masks B-9
+ 
+mega B-9
+ 
+metacharacters B-9
+ 
+metadata B-9
+ 
+Mi B-9
+ 
+n B-9
+ 
+name B-9
+symbol I-9
+ 
+names B-9
+symbols I-9
+ 
+negative B-9
+ 
+negative B-9
+integer I-9
+ 
+negative B-9
+integers I-9
+ 
+normal B-9
+data I-9
+ 
+numerical B-9
+data I-9
+ 
+overflow B-9
+ 
+plaintext B-9
+ 
+powers of 10 B-9
+ 
+powers of 2 B-9
+ 
+precision B-9
+ 
+pure B-9
+binary I-9
+representation I-9
+ 
+random B-9
+ 
+range B-9
+ 
+realistic B-9
+data I-9
+ 
+relative B-9
+error I-9
+ 
+represent B-9
+ 
+representation B-9
+ 
+representations B-9
+ 
+round B-9
+ 
+rounding B-9
+ 
+rounding B-9
+error I-9
+ 
+rounding B-9
+errors I-9
+ 
+sign B-9
+ 
+signed B-9
+ 
+signed B-9
+binary I-9
+ 
+standardisation B-9
+ 
+standardised B-9
+ 
+standardised B-9
+character I-9
+set I-9
+ 
+standardised B-9
+character I-9
+sets I-9
+ 
+standardization B-9
+ 
+standardizsed B-9
+ 
+standardized B-9
+character I-9
+set I-9
+ 
+standardized B-9
+character I-9
+sets I-9
+ 
+T B-9
+ 
+tebi B-9
+ 
+tera B-9
+ 
+transformation B-9
+ 
+truncation B-9
+ 
+two's B-9
+complement I-9
+ 
+typical B-9
+data I-9
+ 
+underflow B-9
+ 
+Vernam B-9
+ 
+1 B-10
+dimension I-10
+ 
+1 B-10
+dimensional I-10
+ 
+1-D B-10
+array I-10
+ 
+1D B-10
+array I-10
+ 
+2 B-10
+dimensional I-10
+ 
+2 B-10
+dimensions I-10
+ 
+2-D B-10
+array I-10
+ 
+2D B-10
+array I-10
+ 
+3 B-10
+dimensional I-10
+ 
+3 B-10
+dimensions I-10
+ 
+3-D B-10
+array I-10
+ 
+3D B-10
+array I-10
+ 
+abstract B-10
+data I-10
+structure I-10
+ 
+abstract B-10
+data I-10
+structures I-10
+ 
+abstract B-10
+data I-10
+type I-10
+ 
+abstract B-10
+data I-10
+types I-10
+ 
+add B-10
+an I-10
+item I-10
+ 
+add B-10
+data I-10
+ 
+adjacency B-10
+list I-10
+ 
+adjacency B-10
+lists I-10
+ 
+adjacency B-10
+matrix I-10
+ 
+arc B-10
+ 
+archive B-10
+ 
+array B-10
+ 
+arrays B-10
+ 
+arrow B-10
+ 
+binary B-10
+ 
+binary B-10
+airthmetic I-10
+ 
+binary B-10
+form I-10
+ 
+binary B-10
+integers I-10
+ 
+binary B-10
+number I-10
+patterns I-10
+ 
+binary B-10
+to I-10
+decimal I-10
+ 
+circular B-10
+ 
+collection B-10
+ 
+collision B-10
+ 
+convex B-10
+combination I-10
+ 
+data B-10
+structure I-10
+ 
+data B-10
+structures I-10
+ 
+data B-10
+type I-10
+ 
+data B-10
+types I-10
+ 
+descendants B-10
+ 
+Dictionaries B-10
+ 
+dictionary B-10
+ 
+dictionary-based B-10
+method I-10
+ 
+dictionary-based B-10
+methods I-10
+ 
+dictionary B-10
+based I-10
+method I-10
+ 
+dictionary B-10
+based I-10
+methods I-10
+ 
+dimension B-10
+ 
+directed B-10
+ 
+directed B-10
+graph I-10
+ 
+dot B-10
+product I-10
+ 
+dynamic B-10
+ 
+edge B-10
+ 
+edges B-10
+ 
+float B-10
+ 
+floating B-10
+point I-10
+ 
+floating B-10
+point I-10
+arithmetic I-10
+ 
+floating B-10
+point I-10
+binary I-10
+ 
+floating B-10
+point I-10
+form I-10
+ 
+floating B-10
+point I-10
+value I-10
+ 
+floating-point B-10
+ 
+floating-point B-10
+arithmetic I-10
+ 
+floating-point B-10
+binary I-10
+ 
+floating-point B-10
+form I-10
+ 
+floating-point B-10
+value I-10
+ 
+graph B-10
+ 
+hash B-10
+table I-10
+ 
+hashing B-10
+ 
+key B-10
+value I-10
+ 
+key B-10
+value I-10
+pairs I-10
+ 
+key-value B-10
+ 
+key-value B-10
+pairs I-10
+ 
+linear B-10
+ 
+linear B-10
+function I-10
+ 
+magnitude B-10
+ 
+map B-10
+ 
+mapping B-10
+ 
+mebi B-10
+ 
+n-dimensional B-10
+ 
+node B-10
+ 
+nodes B-10
+ 
+non-text B-10
+file I-10
+ 
+one-dimensional B-10
+array I-10
+ 
+one B-10
+dimensional I-10
+array I-10
+ 
+peek B-10
+ 
+pointer B-10
+ 
+pop B-10
+ 
+pre-order B-10
+ 
+primitive B-10
+ 
+primitive B-10
+data I-10
+type I-10
+ 
+push B-10
+ 
+queue B-10
+ 
+queues B-10
+ 
+reference B-10
+ 
+rehashing B-10
+ 
+remove B-10
+an I-10
+item I-10
+ 
+remove B-10
+data I-10
+ 
+root B-10
+ 
+same B-10
+data I-10
+type I-10
+ 
+stack B-10
+ 
+stack B-10
+frame I-10
+ 
+stack B-10
+operations I-10
+ 
+stacks B-10
+ 
+structure B-10
+ 
+structured B-10
+ 
+structures B-10
+ 
+test B-10
+for I-10
+empty I-10
+queue I-10
+ 
+test B-10
+for I-10
+empty I-10
+list I-10
+ 
+test B-10
+for I-10
+empty I-10
+stack I-10
+ 
+test B-10
+for I-10
+full I-10
+queue I-10
+ 
+test B-10
+for I-10
+stack I-10
+full I-10
+ 
+text B-10
+ 
+text B-10
+file I-10
+ 
+Ti B-10
+ 
+top B-10
+ 
+tree B-10
+ 
+tree B-10
+data I-10
+structure I-10
+ 
+trees B-10
+ 
+tuple B-10
+ 
+two-dimensional B-10
+ 
+two B-10
+dimensional I-10
+ 
+UNICODE B-10
+ 
+unit B-10
+of I-10
+information I-10
+ 
+value B-10
+and I-10
+key I-10
+ 
+vertex    B-10
+ 
+vertices B-10
+ 
+weighted B-10
+graph I-10
+ 
+A* B-11
+algorithm I-11
+ 
+algorithm B-11
+ 
+algorithmic B-11
+complexity I-11
+ 
+algorithmic B-11
+problems I-11
+ 
+algorithms B-11
+ 
+alteration B-11
+ 
+alterations B-11
+ 
+acending B-11
+order I-11
+ 
+BFS B-11
+ 
+Big B-11
+O I-11
+ 
+Big B-11
+O I-11
+notation I-11
+ 
+Big-O B-11
+ 
+Big-O B-11
+notation I-11
+ 
+binary B-11
+number I-11
+system I-11
+ 
+binary B-11
+search I-11
+ 
+binary B-11
+search I-11
+tree I-11
+ 
+binary B-11
+tree I-11
+search I-11
+ 
+binary-search B-11
+ 
+binary-search B-11
+tree I-11
+ 
+breadth-first B-11
+ 
+breadth-first B-11
+search I-11
+ 
+breadth-first B-11
+traversal I-11
+of I-11
+tree   I-11
+ 
+breadth-first B-11
+tree I-11
+traversal I-11
+ 
+breadth-first B-11
+tree-traversal I-11
+ 
+bubble B-11
+ 
+bubble B-11
+sort I-11
+ 
+characteristic B-11
+ 
+characteristics B-11
+ 
+classification B-11
+ 
+compare B-11
+algorithms I-11
+ 
+comparing B-11
+algorithms I-11
+ 
+complexities B-11
+ 
+complexity B-11
+ 
+constant B-11
+time I-11
+ 
+copy B-11
+ 
+copying B-11
+ 
+create B-11
+algorithms I-11
+ 
+creating B-11
+algorithms I-11
+ 
+data B-11
+compression I-11
+ 
+data B-11
+compression I-11
+algorithm I-11
+ 
+data B-11
+compression I-11
+algorithms I-11
+ 
+data B-11
+item I-11
+ 
+decompression B-11
+time I-11
+ 
+definition B-11
+ 
+depth B-11
+first I-11
+ 
+depth-first B-11
+ 
+depth B-11
+first I-11
+search I-11
+ 
+depth-first B-11
+search I-11
+ 
+design B-11
+algorithms I-11
+ 
+designing B-11
+algorithms I-11
+ 
+DFS B-11
+ 
+Dijkstra B-11
+ 
+Dijkstra's B-11
+shortest I-11
+path I-11
+ 
+Dijkstra's B-11
+shortest I-11
+path I-11
+algorithm I-11
+ 
+divide B-11
+and I-11
+conquer I-11
+ 
+dry B-11
+run I-11
+ 
+dry-run B-11
+ 
+end B-11
+ 
+execution B-11
+time I-11
+ 
+exponential B-11
+ 
+exponential B-11
+function I-11
+ 
+exponential B-11
+time I-11
+ 
+expressoin B-11
+tree I-11
+ 
+graph B-11
+traversal I-11
+ 
+graph-traversal B-11
+ 
+Halting B-11
+problem I-11
+ 
+hashing B-11
+algorithm I-11
+ 
+heuristic B-11
+method I-11
+ 
+heuristic B-11
+methods I-11
+ 
+heuristics B-11
+ 
+in B-11
+order I-11
+ 
+in-order B-11
+ 
+infix B-11
+transformation I-11
+ 
+insertion B-11
+ 
+insertion B-11
+sort I-11
+ 
+intractable B-11
+ 
+lifetime B-11
+ 
+linear B-11
+search I-11
+ 
+linear B-11
+time I-11
+ 
+logarithmic B-11
+ 
+logarithmic B-11
+function I-11
+ 
+logarithmic B-11
+time I-11
+ 
+merge B-11
+ 
+merge B-11
+sort I-11
+ 
+N B-11
+to I-11
+N I-11
+ 
+n! B-11
+ 
+navigate B-11
+ 
+no B-11
+cycle I-11
+ 
+non B-11
+computable I-11
+ 
+non B-11
+polynomial I-11
+ 
+non B-11
+recursive I-11
+ 
+non-computable B-11
+ 
+non-polynomial B-11
+ 
+non-recursive B-11
+ 
+O(log n) B-11
+ 
+O(n) B-11
+ 
+O(n^2) B-11
+ 
+O(n2) B-11
+ 
+O(nlog n) B-11
+ 
+optimisation B-11
+ 
+optimization B-11
+ 
+PageRank B-11
+ 
+PageRank B-11
+algorithm I-11
+ 
+parameter B-11
+ 
+parameter B-11
+passing I-11
+ 
+parameters B-11
+ 
+passes B-11
+ 
+polynomial B-11
+ 
+polynomial B-11
+function I-11
+ 
+polynomial B-11
+time I-11
+ 
+post B-11
+order I-11
+ 
+post-order B-11
+ 
+PR B-11
+ 
+quick B-11
+sort I-11
+ 
+quicksort B-11
+ 
+reverse B-11
+polish I-11
+ 
+reverse B-11
+polish I-11
+notation I-11
+ 
+rogue B-11
+value I-11
+ 
+rogue B-11
+values I-11
+ 
+round B-11
+robin I-11
+ 
+round-robin B-11
+ 
+RPN B-11
+ 
+run B-11
+time I-11
+ 
+run-time B-11
+ 
+runtime B-11
+ 
+saving B-11
+percentage I-11
+ 
+selection B-11
+ 
+sequence B-11
+ 
+sequential B-11
+ 
+shortest B-11
+path I-11
+ 
+shortest-path B-11
+ 
+size B-11
+of I-11
+problem I-11
+ 
+sort B-11
+ 
+sorting B-11
+ 
+space B-11
+ 
+space B-11
+wise I-11
+ 
+space-wise B-11
+ 
+standard B-11
+algorithm I-11
+ 
+time B-11
+ 
+time B-11
+complexity I-11
+ 
+time B-11
+wise I-11
+ 
+time-wise B-11
+ 
+tractable B-11
+ 
+traversal B-11
+ 
+traverse B-11
+ 
+tree B-11
+traversal I-11
+ 
+tree-traversal B-11
+ 
+unambiguous B-11
+ 
+unambiguous B-11
+syntax I-11
+ 
+undirected B-11
+ 
+undirected B-11
+graph I-11
+ 
+unweighted B-11
+ 
+used B-11
+in I-11
+stack I-11
+ 
+write B-11
+algorithms I-11
+ 
+writing B-11
+algorithms I-11
+ 
+!= B-12
+ 
+( ) B-12
+ 
+/ B-12
+ 
+< B-12
+ 
+<= B-12
+ 
+<> B-12
+ 
+= B-12
+ 
+== B-12
+ 
+> B-12
+ 
+>= B-12
+ 
+addition B-12
+ 
+advantage B-12
+ 
+annotaion B-12
+ 
+append B-12
+item I-12
+to I-12
+list I-12
+ 
+append B-12
+to I-12
+list I-12
+ 
+assignment B-12
+ 
+by B-12
+reference I-12
+ 
+by B-12
+value I-12
+ 
+byte-code B-12
+ 
+bytecode B-12
+ 
+call B-12
+by I-12
+reference I-12
+ 
+call B-12
+by I-12
+value I-12
+ 
+compare B-12
+ 
+comparison B-12
+ 
+comparison B-12
+operator I-12
+ 
+comparison B-12
+operators I-12
+ 
+computer B-12
+language I-12
+type I-12
+ 
+concatenation B-12
+ 
+concept B-12
+exception I-12
+handling I-12
+ 
+condition B-12
+ 
+condition B-12
+controlled I-12
+ 
+condition-controlled B-12
+ 
+conditional B-12
+ 
+constant B-12
+ 
+constant B-12
+declaration I-12
+ 
+count B-12
+controlled I-12
+ 
+count-controlled B-12
+ 
+date B-12
+ 
+date B-12
+to I-12
+string I-12
+ 
+date-to-string B-12
+ 
+definite B-12
+ 
+DIV B-12
+ 
+division B-12
+ 
+empty B-12
+ 
+emptying B-12
+ 
+equal B-12
+to I-12
+ 
+event B-12
+driven I-12
+ 
+event-driven B-12
+ 
+exchange B-12
+ 
+expression B-12
+ 
+expressions B-12
+ 
+float B-12
+division I-12
+ 
+float B-12
+to I-12
+string I-12
+ 
+float-to-string B-12
+ 
+for B-12
+ 
+HLT B-12
+ 
+greater B-12
+than I-12
+ 
+greater B-12
+than I-12
+or I-12
+equal I-12
+to I-12
+ 
+imperative B-12
+ 
+imperative B-12
+programming I-12
+ 
+indefinite B-12
+ 
+index B-12
+ 
+indexed B-12
+ 
+indexed B-12
+sequential I-12
+ 
+indexing B-12
+ 
+indirect B-12
+ 
+INP B-12
+ 
+integer B-12
+ 
+integer B-12
+division I-12
+ 
+integer B-12
+to I-12
+string I-12
+ 
+integer-to-string B-12
+ 
+integers B-12
+ 
+iteration B-12
+ 
+iterations B-12
+ 
+iterative B-12
+ 
+iterative B-12
+development I-12
+ 
+iterative B-12
+process I-12
+ 
+language B-12
+ 
+language B-12
+syntax I-12
+ 
+LDA B-12
+ 
+length B-12
+ 
+less B-12
+than I-12
+ 
+less B-12
+than I-12
+or I-12
+equal I-12
+to I-12
+ 
+libraries B-12
+ 
+list B-12
+of I-12
+integers I-12
+ 
+list B-12
+of I-12
+numbers I-12
+ 
+list B-12
+of I-12
+strings I-12
+ 
+Little B-12
+Man I-12
+computer I-12
+ 
+mark B-12
+up I-12
+language I-12
+ 
+mark-up B-12
+language I-12
+ 
+maximum B-12
+ 
+minimum B-12
+ 
+MOD B-12
+ 
+multi B-12
+level I-12
+index I-12
+ 
+multi-level B-12
+index I-12
+ 
+named B-12
+constant I-12
+ 
+nested B-12
+ 
+not B-12
+equal I-12
+to I-12
+ 
+OUT B-12
+ 
+output B-12
+ 
+outputs B-12
+ 
+parenthesis B-12
+ 
+position B-12
+ 
+positions B-12
+ 
+procedural B-12
+ 
+procedural B-12
+abstraction I-12
+ 
+procedural B-12
+programming I-12
+ 
+procedural B-12
+programming I-12
+paradigm I-12
+ 
+procedure B-12
+ 
+procedure B-12
+call I-12
+ 
+procedure B-12
+calling I-12
+ 
+procedures B-12
+ 
+program B-12
+ 
+program B-12
+construction I-12
+ 
+programmed B-12
+solution I-12
+ 
+programming B-12
+ 
+programming B-12
+constructs I-12
+ 
+programming B-12
+language I-12
+ 
+programming B-12
+languages I-12
+ 
+programming B-12
+paradigm I-12
+ 
+programming B-12
+paradigms I-12
+ 
+programming B-12
+routine I-12
+ 
+programming B-12
+routines I-12
+ 
+programs B-12
+ 
+random B-12
+number I-12
+generation I-12
+ 
+random B-12
+number I-12
+generator I-12
+ 
+regular B-12
+expression I-12
+ 
+regular B-12
+expressions I-12
+ 
+regular B-12
+language I-12
+ 
+repetition B-12
+ 
+repetitions B-12
+ 
+return B-12
+ 
+return B-12
+address I-12
+ 
+return B-12
+addresses I-12
+ 
+return B-12
+head I-12
+of I-12
+list I-12
+ 
+return B-12
+length I-12
+of I-12
+list I-12
+ 
+return B-12
+tail I-12
+of I-12
+list I-12
+ 
+return B-12
+value I-12
+ 
+simple B-12
+program I-12
+ 
+simple B-12
+programs I-12
+ 
+STA B-12
+ 
+statement B-12
+ 
+stored B-12
+program I-12
+ 
+stored B-12
+programs I-12
+ 
+string B-12
+ 
+string B-12
+conversion I-12
+operation I-12
+ 
+string B-12
+conversion I-12
+operations I-12
+ 
+string B-12
+handling I-12
+ 
+string B-12
+manipulation I-12
+ 
+string B-12
+to I-12
+data I-12
+ 
+string B-12
+to I-12
+float I-12
+ 
+string B-12
+to I-12
+integer I-12
+ 
+string B-12
+to I-12
+time I-12
+ 
+string-to-date B-12
+ 
+string-to-float B-12
+ 
+string-to-integer B-12
+ 
+string-to-time B-12
+ 
+strings B-12
+ 
+SUB B-12
+ 
+sub B-12
+program I-12
+ 
+sub B-12
+programs I-12
+ 
+sub B-12
+routine I-12
+ 
+sub B-12
+routines I-12
+ 
+sub-program B-12
+ 
+sub-programs B-12
+ 
+sub-routine B-12
+ 
+sub-routines B-12
+ 
+subprogram B-12
+ 
+subprograms B-12
+ 
+subroutine B-12
+ 
+subroutines B-12
+ 
+substring B-12
+ 
+tail B-12
+ 
+time B-12
+to I-12
+string I-12
+ 
+time-to-string B-12
+ 
+type B-12
+ 
+type B-12
+to I-12
+string I-12
+ 
+value B-12
+ 
+values B-12
+ 
+variable B-12
+ 
+variable B-12
+declaration I-12
+ 
+variable B-12
+length I-12
+ 
+variable B-12
+list I-12
+ 
+variable B-12
+lists I-12
+ 
+variable B-12
+scope I-12
+ 
+variables B-12
+ 
+while B-12
+ 
+word B-12
+ 
+word B-12
+length I-12
+ 
+write B-12
+ 
+writing B-12
+ 
+ 
+[] B-13
+ 
+to B-13
+function I-13
+ 
+A  B-13
+to I-13
+B B-13
+ 
+A  B-13
+to I-13
+B B-13
+function 
+ 
+abstract B-13
+method I-13
+ 
+add: B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+add: B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+function I-13
+ 
+aggregation B-13
+ 
+append B-13
+item I-13
+to I-13
+list I-13
+ 
+argument B-13
+ 
+argument B-13
+function I-13
+ 
+argument B-13
+type I-13
+ 
+base B-13
+case  I-13
+ 
+casting B-13
+ 
+child B-13
+ 
+class B-13
+ 
+class B-13
+diagram I-13
+ 
+classes B-13
+ 
+construct B-13
+ 
+construction B-13
+ 
+constructor B-13
+ 
+constructs B-13
+ 
+DAT B-13
+ 
+data B-13
+object I-13
+ 
+data B-13
+objects I-13
+ 
+Delphi B-13
+ 
+Delphi B-13
+XE I-13
+ 
+elegant B-13
+ 
+encapsulate B-13
+ 
+encapsulation B-13
+ 
+explicit B-13
+ 
+f B-13
+add: I-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+f B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+f B-13
+integer I-13
+x I-13
+integer I-13
+ 
+f B-13
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+F# B-13
+ 
+filter B-13
+ 
+first B-13
+class I-13
+object I-13
+ 
+first-class B-13
+object I-13
+ 
+fold B-13
+ 
+function B-13
+ 
+function B-13
+application I-13
+ 
+function B-13
+call I-13
+ 
+function B-13
+add: I-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+function B-13
+integer I-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+function B-13
+integer I-13
+x I-13
+integer I-13
+ 
+function B-13
+integer I-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+function B-13
+interpretations I-13
+ 
+function B-13
+to I-13
+each I-13
+element I-13
+ 
+function B-13
+type I-13
+ 
+functional B-13
+ 
+functional B-13
+language I-13
+ 
+functional B-13
+languages I-13
+ 
+functional B-13
+paradigm I-13
+ 
+functional B-13
+paradigms I-13
+ 
+functional B-13
+programming I-13
+ 
+functions B-13
+ 
+general B-13
+case I-13
+ 
+global B-13
+ 
+global B-13
+variable I-13
+ 
+global B-13
+variables I-13
+ 
+Haskell B-13
+ 
+head B-13
+ 
+high B-13
+level I-13
+ 
+high B-13
+level I-13
+language I-13
+ 
+high-level B-13
+ 
+high-level B-13
+language I-13
+ 
+higher-order B-13
+ 
+higher-order B-13
+functions I-13
+ 
+identifier B-13
+ 
+identifier B-13
+name I-13
+ 
+identifier B-13
+names I-13
+ 
+implicit B-13
+ 
+inheritance B-13
+ 
+instantiation B-13
+ 
+integer B-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+ 
+integer B-13
+to I-13
+(integer I-13
+to I-13
+integer) I-13
+function I-13
+ 
+integer B-13
+x I-13
+integer I-13
+ 
+integer B-13
+x I-13
+integer I-13
+function I-13
+ 
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+ 
+integer B-13
+x I-13
+integer I-13
+to I-13
+integer I-13
+function I-13
+ 
+linked B-13
+list I-13
+ 
+linked-list B-13
+ 
+linked B-13
+lists I-13
+ 
+linked-lists B-13
+ 
+Lisp B-13
+ 
+list B-13
+of I-13
+objects I-13
+ 
+local B-13
+ 
+local B-13
+variable I-13
+ 
+local B-13
+variables I-13
+ 
+low B-13
+level I-13
+ 
+low-level B-13
+ 
+method B-13
+ 
+methods B-13
+ 
+modular B-13
+ 
+modular B-13
+programming I-13
+ 
+modularity B-13
+ 
+object B-13
+ 
+object B-13
+oriented I-13
+ 
+object B-13
+oriented I-13
+approach I-13
+ 
+object B-13
+oriented I-13
+program I-13
+ 
+object B-13
+oriented I-13
+programming I-13
+ 
+object B-13
+oriented I-13
+programming I-13
+paradigm I-13
+ 
+object B-13
+oriented I-13
+programs I-13
+ 
+object B-13
+oriented I-13
+techniques I-13
+ 
+object-oriented B-13
+ 
+object-oriented B-13
+approach I-13
+ 
+object-oriented B-13
+program I-13
+ 
+object-oriented B-13
+programming I-13
+ 
+object-oriented B-13
+programming I-13
+paradigm I-13
+ 
+object-oriented B-13
+programs I-13
+ 
+object-oriented B-13
+techniques I-13
+ 
+OO B-13
+ 
+OOP B-13
+ 
+over-riding B-13
+ 
+overriding B-13
+ 
+parent B-13
+ 
+partial B-13
+function I-13
+application I-13
+ 
+polymorphism B-13
+ 
+private B-13
+ 
+properties B-13
+ 
+properties B-13
+of I-13
+objects I-13
+ 
+property B-13
+ 
+property B-13
+attribute I-13
+ 
+public B-13
+ 
+recursion B-13
+ 
+reduce B-13
+ 
+relative B-13
+advantage I-13
+ 
+result B-13
+type I-13
+ 
+Scala B-13
+ 
+scheme B-13
+ 
+source B-13
+code I-13
+ 
+source B-13
+program I-13
+ 
+source B-13
+programs I-13
+ 
+specifier B-13
+ 
+standard B-13
+function I-13
+ 
+standard B-13
+functions I-13
+ 
+standard B-13
+ML I-13
+ 
+standard B-13
+module I-13
+ 
+standard B-13
+modules I-13
+ 
+static B-13
+ 
+static B-13
+method I-13
+ 
+sub B-13
+domain I-13
+ 
+sub-domain B-13
+ 
+subset B-13
+of I-13
+object I-13
+to I-13
+single I-13
+value I-13
+ 
+UML B-13
+ 
+UML B-13
+composition I-13
+ 
+Unified B-13
+Modelling I-13
+Language I-13
+ 
+user B-13
+exception I-13
+handling I-13
+ 
+user B-13
+defined I-13
+ 
+user-defined B-13
+ 
+VB.NET B-13
+ 
+virtual B-13
+method I-13
+ 
+virtual B-13
+methods I-13
+ 
+awareness B-14
+ 
+behaviour B-14
+ 
+censorship B-14
+ 
+code B-14
+of I-14
+conduct I-14
+ 
+codes B-14
+of I-14
+conduct I-14
+ 
+colour B-14
+paradigm I-14
+ 
+colour B-14
+paradigms I-14
+ 
+conduct B-14
+ 
+consequence B-14
+ 
+consequences B-14
+ 
+consider B-14
+ 
+cultural B-14
+ 
+culture B-14
+ 
+current B-14
+legislation I-14
+ 
+economic B-14
+ 
+economic B-14
+changes I-14
+ 
+economy B-14
+ 
+effect B-14
+ 
+effectiveness B-14
+ 
+effects B-14
+ 
+employment B-14
+ 
+envrionment B-14
+ 
+ethical B-14
+ 
+freedom B-14
+of I-14
+information I-14
+ 
+individual B-14
+ 
+individuals B-14
+ 
+industrial B-14
+ 
+issue B-14
+ 
+issues B-14
+ 
+layout B-14
+ 
+legal B-14
+ 
+legislation B-14
+ 
+manage B-14
+ 
+management B-14
+ 
+monitor B-14
+ 
+monitoring B-14
+ 
+moral B-14
+ 
+morals B-14
+ 
+offensive B-14
+ 
+opportunities B-14
+ 
+opporunity B-14
+ 
+personal B-14
+information I-14
+ 
+piracy B-14
+ 
+power B-14
+ 
+privacy B-14
+ 
+professional B-14
+behaviour I-14
+ 
+professional B-14
+groups I-14
+ 
+risk B-14
+ 
+risks B-14
+ 
+scale B-14
+ 
+social B-14
+ 
+society B-14
+ 
+stakeholder B-14
+ 
+stakeholders B-14
+ 
+standard B-14
+ 
+standards B-14
+ 
+technology B-14
+ 
+The O
+Computer B-14
+Misuse I-14
+Act I-14
+ 
+The O
+Computer B-14
+Misuse I-14
+Act I-14
+1990 I-14
+ 
+The O
+Copyright B-14
+Design I-14
+and I-14
+Patents I-14
+Act I-14
+ 
+The O
+Copyright B-14
+Design I-14
+and I-14
+Patents I-14
+Act I-14
+1988 I-14
+ 
+The O
+Data B-14
+Protection I-14
+Act I-14
+ 
+The O
+Data B-14
+Protection I-14
+Act I-14
+1998 I-14
+ 
+The O
+Regulation B-14
+of I-14
+Investigatory I-14
+Powers I-14
+Act I-14
+ 
+The O
+Regulation B-14
+of I-14
+Investigatory I-14
+Powers I-14
+Act I-14
+2000 I-14
+ 
+third B-14
+parties I-14
+ 
+wider B-14
+community I-14
+ 
+wider B-14
+society I-14
+ 
+workforce B-14
+ 
+design B-15
+human I-15
+user I-15
+interface I-15
+ 
+human B-15
+ 
+human-computer B-15
+interaction I-15
+ 
+human B-15
+user I-15
+interface I-15
+ 
+IDE B-15
+ 
+IDLE B-15
+ 
+integrated B-15
+development I-15
+environment I-15
+ 
+integrated B-15
+development I-15
+learning I-15
+environment I-15
+ 
+interface B-15
+ 
+interfaces B-15
+ 
+natural B-15
+language I-15
+interface I-15
+ 
+user B-15
+interface I-15
+ 
+user B-15
+requirements I-15
+ 
+address B-16
+allow I-16
+list I-16
+ 
+anonymous B-16
+ 
+API B-16
+definition I-16
+ 
+app B-16
+ 
+application B-16
+ 
+Application B-16
+Programming I-16
+Interface I-16
+ 
+asynchronous B-16
+ 
+bandwidth B-16
+ 
+baud B-16
+rate I-16
+ 
+bit B-16
+rate I-16
+ 
+broadcast B-16
+disabled I-16
+ 
+Carrier B-16
+Sense I-16
+Multiple I-16
+Access I-16
+with I-16
+Collision I-16
+Avoidance I-16
+ 
+check B-16
+digits I-16
+ 
+checksums B-16
+ 
+circuit B-16
+ 
+clear B-16
+to I-16
+send I-16
+ 
+client B-16
+ 
+client B-16
+server I-16
+ 
+client B-16
+side I-16
+ 
+client-server B-16
+ 
+cloud B-16
+based I-16
+technology I-16
+ 
+cloud B-16
+based I-16
+technology I-16
+services I-16
+ 
+communication B-16
+network I-16
+ 
+communication B-16
+networks I-16
+ 
+communications B-16
+ 
+connected B-16
+ 
+contemporary B-16
+protocols I-16
+ 
+correction B-16
+ 
+create B-16
+read I-16
+update I-16
+and I-16
+delete I-16
+ 
+create B-16
+read I-16
+update I-16
+delete I-16
+ 
+CRUD B-16
+ 
+CSMA/CA B-16
+ 
+CTS B-16
+ 
+Delete B-16
+ 
+Delete B-16
+ 
+DELETE B-16
+to I-16
+DELETE I-16
+ 
+DHCP B-16
+ 
+domain B-16
+name I-16
+system I-16
+ 
+domain B-16
+service I-16
+ 
+Dynamic B-16
+Host I-16
+Configuration I-16
+Protocol I-16
+ 
+email B-16
+server I-16
+ 
+email B-16
+servers I-16
+ 
+FTP B-16
+ 
+FTP B-16
+client I-16
+software I-16
+ 
+FTP B-16
+server I-16
+ 
+full B-16
+duplex I-16
+ 
+GET B-16
+ 
+GET B-16
+to I-16
+SELECT I-16
+ 
+host B-16
+ 
+host B-16
+identifier I-16
+ 
+hosts B-16
+ 
+internt B-16
+ 
+internet B-16
+protocol I-16
+ 
+IP B-16
+ 
+IP B-16
+address I-16
+ 
+IP B-16
+standard I-16
+ 
+JSON B-16
+ 
+LAN B-16
+ 
+latency B-16
+ 
+layer B-16
+ 
+layering B-16
+ 
+link B-16
+ 
+local B-16
+area I-16
+network I-16
+ 
+logical B-16
+bus I-16
+network I-16
+ 
+log B-16
+in I-16
+ 
+log-in B-16
+ 
+login B-16
+ 
+MAC B-16
+ 
+Media B-16
+Access I-16
+Control I-16
+ 
+MAC B-16
+address I-16
+ 
+Media B-16
+Access I-16
+Control I-16
+address I-16
+ 
+message B-16
+ 
+messages B-16
+ 
+multiplexing B-16
+ 
+NAT B-16
+ 
+network B-16
+ 
+Network B-16
+Address I-16
+Translation I-16
+ 
+network B-16
+collision I-16
+ 
+network B-16
+collisions I-16
+ 
+network B-16
+collision I-16
+detection I-16
+ 
+network B-16
+connection I-16
+ 
+network B-16
+connections I-16
+ 
+network B-16
+hardware I-16
+ 
+network B-16
+identifier I-16
+ 
+network B-16
+identifiers I-16
+ 
+network B-16
+sensor I-16
+ 
+network B-16
+sensors I-16
+ 
+networked B-16
+sensor I-16
+ 
+networked B-16
+sensors I-16
+ 
+networking B-16
+ 
+networking B-16
+standard I-16
+ 
+networking B-16
+standards I-16
+ 
+networks B-16
+ 
+non B-16
+anonymous I-16
+ 
+non-anonymous B-16
+ 
+non B-16
+routable I-16
+ 
+non-routable B-16
+ 
+packet B-16
+ 
+packet B-16
+content I-16
+ 
+packet B-16
+contents I-16
+ 
+packet B-16
+filering I-16
+ 
+packet B-16
+switching I-16
+ 
+packets B-16
+ 
+parallel B-16
+transmission I-16
+ 
+parity B-16
+bits I-16
+ 
+part B-16
+ 
+peer B-16
+to I-16
+peer I-16
+ 
+peer-to-peer B-16
+ 
+physical B-16
+start I-16
+ 
+POP3 B-16
+ 
+port B-16
+ 
+port B-16
+forwarding I-16
+ 
+ports B-16
+ 
+POST B-16
+to I-16
+INSERT I-16
+ 
+Post B-16
+Office I-16
+Protocol I-16
+ 
+protocol B-16
+ 
+protocol B-16
+layering I-16
+ 
+protocols B-16
+ 
+proxy B-16
+ 
+proxies B-16
+ 
+proxy B-16
+server I-16
+ 
+proxy B-16
+servers I-16
+ 
+PUT B-16
+to I-16
+UPDATE I-16
+ 
+rate B-16
+ 
+remote B-16
+ 
+remote B-16
+computer I-16
+ 
+remote B-16
+management I-16
+ 
+request B-16
+ 
+request B-16
+to I-16
+send I-16
+ 
+REST B-16
+ 
+Retrieve B-16
+ 
+retieving B-16
+email I-16
+ 
+routable B-16
+ 
+router B-16
+ 
+routers B-16
+ 
+routing B-16
+method I-16
+ 
+routing B-16
+methods I-16
+ 
+routing B-16
+traffic I-16
+ 
+RTS B-16
+ 
+RTS/CTS B-16
+ 
+run B-16
+length I-16
+ 
+run B-16
+length I-16
+encoding I-16
+ 
+Secure B-16
+Shell I-16
+ 
+send B-16
+email I-16
+ 
+sending B-16
+email I-16
+ 
+seiral B-16
+ 
+serial B-16
+transmission I-16
+ 
+server B-16
+ 
+server B-16
+side I-16
+ 
+servers B-16
+ 
+Service B-16
+Set I-16
+Identifier I-16
+ 
+simplex B-16
+ 
+Simple B-16
+Mail I-16
+Transfer I-16
+Protocol I-16
+ 
+SMTP B-16
+ 
+socket B-16
+ 
+sockets B-16
+ 
+SSH B-16
+ 
+SSH B-16
+client I-16
+ 
+SSID B-16
+ 
+start B-16
+ 
+stop B-16
+ 
+subnet B-16
+ 
+subnet B-16
+mask I-16
+ 
+switch B-16
+ 
+switches B-16
+ 
+switching B-16
+ 
+synchronous B-16
+ 
+TCP B-16
+ 
+TCP B-16
+connection I-16
+ 
+TCP/IP B-16
+ 
+TCP/IP B-16
+stack I-16
+ 
+TCP/IP B-16
+stacks I-16
+ 
+thick B-16
+client I-16
+ 
+thick-client B-16
+ 
+thin B-16
+client I-16
+ 
+thin-client B-16
+ 
+topology B-16
+ 
+tranfer B-16
+file I-16
+ 
+transmission B-16
+ 
+transmission B-16
+control I-16
+protocol I-16
+ 
+transmission B-16
+method I-16
+ 
+transmission B-16
+methods I-16
+ 
+UDP B-16
+ 
+user B-16
+datagram I-16
+protocol I-16
+ 
+WAN B-16
+ 
+Websocket B-16
+protocol I-16
+ 
+well B-16
+known I-16
+ 
+well-known B-16
+ 
+wide B-16
+area I-16
+network I-16
+ 
+WiFi B-16
+ 
+Wi-Fi B-16
+ 
+WiFi B-16
+protected I-16
+access I-16
+ 
+Wi-Fi B-16
+protected I-16
+access I-16
+ 
+wireless B-16
+ 
+wireless B-16
+access I-16
+point I-16
+ 
+wireless B-16
+communication I-16
+protocol I-16
+ 
+wireless B-16
+communication I-16
+protocols I-16
+ 
+wireless B-16
+connection I-16
+ 
+wireless B-16
+network I-16
+adapter I-16
+ 
+wireless B-16
+technology I-16
+ 
+with B-16
+ 
+without B-16
+ 
+WAP B-16
+ 
+WNA B-16
+ 
+WPA B-16
+ 
+WPA2 B-16
+ 
+XML B-16
+ 
+a(a|b)* B-17
+ 
+abstract B-17
+ 
+abstract B-17
+model I-17
+ 
+abstract B-17
+models I-17
+ 
+abstraction B-17
+ 
+abstractions B-17
+ 
+action B-17
+ 
+actions B-17
+ 
+Alan B-17
+Turing I-17
+ 
+alphabet B-17
+of I-17
+symbols I-17
+ 
+alternation B-17
+ 
+backtracking B-17
+ 
+Backus B-17
+Naur I-17
+ 
+Backus-Naur B-17
+ 
+Backus B-17
+Naur I-17
+form I-17
+ 
+Backus-Naur B-17
+form I-17
+ 
+BNF B-17
+ 
+category B-17
+ 
+categories B-17
+ 
+categorisation B-17
+ 
+categorization B-17
+ 
+combine B-17
+procedures I-17
+ 
+composition B-17
+ 
+compositions B-17
+ 
+compound B-17
+procedure I-17
+ 
+compound B-17
+procedures I-17
+ 
+computable B-17
+ 
+computation B-17
+ 
+computational B-17
+ 
+computational B-17
+method I-17
+ 
+computational B-17
+methods I-17
+ 
+computational B-17
+pattern I-17
+ 
+computational B-17
+patterns I-17
+ 
+computational B-17
+solution I-17
+ 
+computational B-17
+solutions I-17
+ 
+computational B-17
+thinking I-17
+ 
+computations B-17
+ 
+concurrency B-17
+ 
+concurrent B-17
+ 
+concurrent B-17
+processing I-17
+ 
+data B-17
+abstraction I-17
+ 
+decision B-17
+ 
+decisions B-17
+ 
+decompose B-17
+ 
+decomposition B-17
+ 
+feature B-17
+ 
+features B-17
+ 
+finite B-17
+ 
+finite B-17
+alphabet I-17
+of I-17
+symbols I-17
+ 
+finite B-17
+set I-17
+of I-17
+states I-17
+ 
+finite B-17
+state I-17
+machine I-17
+ 
+finite B-17
+state I-17
+machines I-17
+ 
+flow B-17
+ 
+FSM B-17
+ 
+functional B-17
+ 
+functional B-17
+abstraction I-17
+ 
+functional B-17
+abstractions I-17
+ 
+functional B-17
+characteristic I-17
+ 
+functional B-17
+characteristics I-17
+ 
+functional B-17
+composition I-17
+ 
+functional B-17
+compositions I-17
+ 
+generalisation B-17
+ 
+group B-17
+ 
+groups B-17
+ 
+halting B-17
+state I-17
+ 
+hand B-17
+trace I-17
+ 
+hand-trace B-17
+ 
+hiding B-17
+details I-17
+ 
+hierarchical B-17
+relationship I-17
+ 
+implementation B-17
+ 
+infinite B-17
+taps I-17
+ 
+limit B-17
+ 
+limits B-17
+ 
+machine B-17
+ 
+machines B-17
+ 
+marked B-17
+off I-17
+squares I-17
+ 
+marked-off B-17
+squares I-17
+ 
+matching B-17
+ 
+Mealy B-17
+ 
+no B-17
+output I-17
+ 
+performance B-17
+modelling I-17
+ 
+pipelining B-17
+ 
+preconditions B-17
+ 
+problem B-17
+abstraction I-17
+ 
+problem B-17
+decomposition I-17
+ 
+problem B-17
+defined I-17
+ 
+problem B-17
+recognition I-17
+ 
+problem B-17
+reduction I-17
+ 
+program B-17
+code I-17
+ 
+read B-17
+ 
+read B-17
+write I-17
+head I-17
+ 
+read-write B-17
+ 
+read-write B-17
+head I-17
+ 
+reading B-17
+ 
+reality B-17
+ 
+representational B-17
+abstraction I-17
+ 
+re-usable B-17
+ 
+reusable B-17
+ 
+same B-17
+time I-17
+ 
+separation B-17
+ 
+set B-17
+of I-17
+states I-17
+ 
+shorthand B-17
+ 
+shorthand B-17
+notation I-17
+ 
+simultaneous B-17
+ 
+single B-17
+fixed I-17
+program I-17
+ 
+situation B-17
+ 
+start B-17
+state I-17
+ 
+state B-17
+ 
+state B-17
+machine I-17
+ 
+state B-17
+machines I-17
+ 
+state B-17
+transition I-17
+ 
+state B-17
+transition I-17
+diagram I-17
+ 
+state B-17
+transition I-17
+diagrams I-17
+ 
+state B-17
+transition I-17
+table I-17
+ 
+state B-17
+transition I-17
+tables I-17
+ 
+sub B-17
+procedure I-17
+ 
+sub B-17
+procedures I-17
+ 
+sub-procedure B-17
+ 
+sub-procedures B-17
+ 
+thinking B-17
+ 
+trace B-17
+ 
+trade B-17
+off I-17
+ 
+trade-off B-17
+ 
+transition B-17
+ 
+transition B-17
+function I-17
+ 
+Turing B-17
+ 
+unsolvable B-17
+ 
+visualisation B-17
+ 
+Agile B-18
+ 
+aim B-18
+ 
+analyse B-18
+ 
+analyse B-18
+data I-18
+ 
+analysis B-18
+ 
+analyst B-18
+ 
+analyze B-18
+ 
+analyze B-18
+data I-18
+ 
+approach B-18
+ 
+approaches B-18
+ 
+automated B-18
+ 
+automation B-18
+ 
+break-down B-18
+ 
+breakdown B-18
+ 
+change B-18
+ 
+changes B-18
+ 
+common B-18
+behaviour I-18
+ 
+common B-18
+behaviours I-18
+ 
+computer B-18
+based I-18
+solution I-18
+ 
+computer-based B-18
+solution I-18
+ 
+computer B-18
+language I-18
+ 
+computer B-18
+languages I-18
+ 
+configuration B-18
+ 
+data B-18
+input I-18
+ 
+decision B-18
+making I-18
+ 
+describe B-18
+problem I-18
+ 
+describe B-18
+problems I-18
+ 
+existing B-18
+solution I-18
+ 
+existing B-18
+solutions I-18
+ 
+external B-18
+world I-18
+ 
+falicitation B-18
+ 
+feedback B-18
+ 
+hierarchy B-18
+chart I-18
+ 
+hierarchy B-18
+chart I-18
+ 
+identify B-18
+ 
+identify B-18
+components I-18
+ 
+identify B-18
+solution I-18
+ 
+limitation B-18
+ 
+limitations B-18
+ 
+natural B-18
+language I-18
+ 
+non B-18
+standard I-18
+problem I-18
+ 
+non B-18
+standard I-18
+problems I-18
+ 
+non-standard B-18
+problem I-18
+ 
+paradigm B-18
+ 
+paradigms B-18
+ 
+problem B-18
+ 
+problem-solving B-18
+ 
+problem B-18
+solving I-18
+ 
+problems B-18
+ 
+pseudo-code B-18
+ 
+pseudocode B-18
+ 
+routine B-18
+ 
+routines B-18
+ 
+small B-18
+parts I-18
+ 
+smaller B-18
+parts I-18
+ 
+solve B-18
+ 
+solve B-18
+problem I-18
+ 
+solve B-18
+problems I-18
+ 
+solving B-18
+ 
+solvable B-18
+ 
+stated B-18
+objective I-18
+ 
+stated B-18
+objectives I-18
+ 
+step B-18
+ 
+steps B-18
+ 
+syntax B-18
+ 
+syntax B-18
+analysis I-18
+ 
+syntax B-18
+diagram I-18
+ 
+syntax B-18
+diagrams I-18
+ 
+- B-19
+ 
+? B-19
+ 
+{ B-19
+ 
+} B-19
+ 
+* B-19
+ 
+{ B-19
+ 
+} B-19
+ 
+^ B-19
+ 
+∈ B-19
+ 
+∉ B-19
+ 
++ B-19
+ 
+| B-19
+ 
+∧ B-19
+ 
+⊂ B-19
+ 
+⊆ B-19
+ 
+ADD B-19
+ 
+algebra B-19
+ 
+AND B-19
+ 
+arithmetic B-19
+operator I-19
+ 
+arithmetic B-19
+operators I-19
+ 
+association B-19
+ 
+associative B-19
+ 
+Boolean B-19
+ 
+Boolean B-19
+algebra I-19
+ 
+Boolean B-19
+expression I-19
+ 
+Boolean B-19
+expressions I-19
+ 
+Boolean B-19
+identity I-19
+ 
+Boolean B-19
+identities I-19
+ 
+Boolean B-19
+logic I-19
+ 
+cardinality B-19
+ 
+cardinality B-19
+finite I-19
+set I-19
+ 
+cardinality B-19
+of I-19
+a I-19
+finite I-19
+set I-19
+ 
+Cartesian B-19
+ 
+Cartesian B-19
+product I-19
+ 
+Cartesian B-19
+product I-19
+of I-19
+sets I-19
+ 
+commutation B-19
+ 
+commutative B-19
+ 
+comprehension B-19
+ 
+conjunction B-19
+ 
+countable B-19
+set I-19
+ 
+countably B-19
+infinte I-19
+set I-19
+ 
+countably B-19
+infinte I-19
+sets I-19
+ 
+counting B-19
+ 
+count B-19
+ 
+counts B-19
+ 
+D B-19
+type I-19
+ 
+D B-19
+type I-19
+flip I-19
+flop I-19
+ 
+D B-19
+type I-19
+flip-flop I-19
+ 
+D-type B-19
+ 
+De B-19
+Morgan I-19
+ 
+De B-19
+Morgan's I-19
+law I-19
+ 
+difference B-19
+ 
+disjunction B-19
+ 
+distribution B-19
+ 
+double B-19
+negation I-19
+ 
+double-negation B-19
+ 
+edge B-19
+triggered I-19
+ 
+edge B-19
+triggerd I-19
+D I-19
+type I-19
+flip I-19
+flop I-19
+ 
+edge B-19
+triggerd I-19
+D I-19
+type I-19
+flip-flop I-19
+ 
+edge B-19
+triggered I-19
+D-type I-19
+flip I-19
+flop I-19
+ 
+edge B-19
+triggered I-19
+D-type I-19
+flip-flop I-19
+ 
+edge-triggered B-19
+ 
+edge-triggered B-19
+D I-19
+type I-19
+flip I-19
+flop I-19
+ 
+edge-triggered B-19
+D I-19
+type I-19
+flip-flop I-19
+ 
+edge-triggered B-19
+D-type I-19
+flip I-19
+flop I-19
+ 
+edge-triggered B-19
+D-type I-19
+flip-flop I-19
+ 
+element B-19
+ 
+elements B-19
+ 
+equivalence B-19
+ 
+exclusive B-19
+disjunction I-19
+ 
+fixed B-19
+point I-19
+ 
+fixed-point B-19
+ 
+flip flop B-19
+ 
+flip-flop B-19
+ 
+fraction B-19
+ 
+fractions B-19
+ 
+full B-19
+adder I-19
+ 
+full-adder B-19
+ 
+half B-19
+adder I-19
+ 
+half-adder B-19
+ 
+infinite B-19
+set I-19
+ 
+infinite B-19
+sets I-19
+ 
+integer B-19
+ 
+integers B-19
+ 
+intersection B-19
+ 
+irrational B-19
+ 
+Karnaugh B-19
+map I-19
+ 
+Karnaugh B-19
+maps I-19
+ 
+logic B-19
+ 
+logic B-19
+gate I-19
+ 
+logic B-19
+gate I-19
+diagram I-19
+ 
+logic B-19
+gate I-19
+diagrams I-19
+ 
+logic B-19
+gates I-19
+ 
+logic B-19
+problem I-19
+ 
+logic B-19
+problems I-19
+ 
+logic B-19
+unit I-19
+ 
+logical B-19
+ 
+logical B-19
+bitwise I-19
+operator I-19
+ 
+logical B-19
+bitwise I-19
+operators I-19
+ 
+logical B-19
+condition I-19
+ 
+logical B-19
+conditions I-19
+ 
+logical B-19
+error I-19
+ 
+logical B-19
+errors I-19
+ 
+logical B-19
+operation I-19
+ 
+logical B-19
+operations I-19
+ 
+logical B-19
+operator I-19
+ 
+logical B-19
+operators I-19
+ 
+logical B-19
+reasoning I-19
+ 
+mathematical B-19
+ 
+mathematical B-19
+operation I-19
+ 
+mathematical B-19
+operations I-19
+ 
+mathematics B-19
+ 
+maths B-19
+ 
+membership B-19
+ 
+modulus B-19
+ 
+multiplication B-19
+ 
+multiply B-19
+ 
+N B-19
+ 
+NAND B-19
+ 
+natural B-19
+ 
+natural B-19
+number I-19
+ 
+natural B-19
+numbers I-19
+ 
+negation B-19
+ 
+negative B-19
+number I-19
+ 
+negative B-19
+numbers I-19
+ 
+NOR B-19
+ 
+NOT B-19
+ 
+operate B-19
+ 
+operation B-19
+ 
+operations B-19
+ 
+operator B-19
+ 
+operators B-19
+ 
+OR B-19
+ 
+ordinal B-19
+ 
+positive B-19
+ 
+positive B-19
+integer I-19
+ 
+positive B-19
+integers I-19
+ 
+proper B-19
+sub-set I-19
+ 
+proper B-19
+subset I-19
+ 
+Q B-19
+ 
+quotient B-19
+ 
+R B-19
+ 
+rational B-19
+ 
+real B-19
+ 
+real B-19
+division I-19
+ 
+real B-19
+number I-19
+ 
+real B-19
+numbers I-19
+ 
+remainder B-19
+ 
+remainders B-19
+ 
+rules B-19
+ 
+set B-19
+ 
+sets B-19
+ 
+simplify B-19
+ 
+sub-set B-19
+ 
+subset B-19
+ 
+subtract B-19
+ 
+subtraction B-19
+ 
+symbol B-19
+ 
+symbol B-19
+table I-19
+construction I-19
+ 
+symbols B-19
+ 
+term B-19
+ 
+truth B-19
+table I-19
+ 
+union B-19
+ 
+un-signed B-19
+ 
+unsigned B-19
+ 
+XOR B-19
+ 
+y = B-19
+ 
+Z B-19
+ 
+calculus B-20
+ 
+exponent B-20
+ 
+exponentiation B-20
+ 
+factorial B-20
+ 
+field B-20
+R I-20
+ 
+finite B-20
+set I-20
+ 
+finite B-20
+sets I-20
+ 
+geometric B-20
+point I-20
+ 
+geometric B-20
+point I-20
+in I-20
+space I-20
+ 
+linear B-20
+algebra I-20
+ 
+mathematically B-20
+proven I-20
+ 
+matrix B-20
+ 
+matrices B-20
+ 
+notation B-20
+ 
+permutation B-20
+ 
+scalar B-20
+ 
+scalar B-20
+product I-20
+ 
+scalar-vector B-20
+ 
+scalar-vector B-20
+multiplication I-20
+ 
+vector B-20
+ 
+vectors B-20
+ 
+vector B-20
+addition I-20
+ 
+vector B-20
+graphics I-20
+ 
+general B-21
+ 
+professional B-21
+skills I-21
+ 
+subject B-21
+ 
+technical B-21
+ 
+access B-22
+ 
+accidental B-22
+damage I-22
+ 
+asymmetric B-22
+ 
+attack B-22
+mechanism I-22
+ 
+attack B-22
+mechanisms I-22
+ 
+benefit B-22
+ 
+benefits B-22
+ 
+biometric B-22
+ 
+biometirc B-22
+data I-22
+ 
+biometirc B-22
+technology I-22
+ 
+biometirc B-22
+technologies I-22
+ 
+biometrics B-22
+ 
+black B-22
+hat I-22
+ 
+black B-22
+hat I-22
+hacking I-22
+ 
+black-hat B-22
+ 
+black-hat B-22
+hacking I-22
+ 
+Caesar B-22
+ 
+cipher B-22
+ 
+cipher-text B-22
+ 
+ciphertext B-22
+ 
+computational B-22
+security I-22
+ 
+contingency B-22
+plan I-22
+ 
+cryptography B-22
+ 
+cryptographic B-22
+method I-22
+ 
+damage B-22
+ 
+damages B-22
+ 
+danager B-22
+ 
+dangers B-22
+ 
+data B-22
+access I-22
+ 
+data B-22
+integrity I-22
+ 
+data B-22
+integrity I-22
+protection I-22
+ 
+data B-22
+protection I-22
+ 
+data B-22
+security I-22
+ 
+defence B-22
+ 
+defence B-22
+mechanism I-22
+ 
+digital B-22
+signature I-22
+ 
+digital B-22
+signatures I-22
+ 
+disaster B-22
+ 
+disaster B-22
+planning I-22
+ 
+drawback B-22
+ 
+encode B-22
+ 
+encoding B-22
+ 
+encryption B-22
+ 
+file B-22
+security I-22
+ 
+firewall B-22
+ 
+firewalls B-22
+ 
+hacking B-22
+ 
+key B-22
+ 
+keys B-22
+ 
+key B-22
+exchange I-22
+ 
+key B-22
+variables I-22
+ 
+malicious B-22
+damage I-22
+ 
+malicious B-22
+software I-22
+ 
+manage B-22
+files I-22
+ 
+mechanism B-22
+ 
+mechanisms B-22
+ 
+method B-22
+of I-22
+access I-22
+ 
+methods B-22
+of I-22
+access I-22
+ 
+network B-22
+security I-22
+ 
+online B-22
+updating I-22
+ 
+password B-22
+ 
+passwords B-22
+ 
+penetration B-22
+testing I-22
+ 
+permitted B-22
+access I-22
+ 
+personal B-22
+data I-22
+ 
+plan B-22
+ 
+potential B-22
+threat I-22
+ 
+protect B-22
+ 
+protected B-22
+ 
+protecting B-22
+data I-22
+ 
+protection B-22
+ 
+recovery B-22
+ 
+relative B-22
+strength I-22
+ 
+secure B-22
+ 
+security B-22
+ 
+sequential B-22
+file I-22
+access I-22
+ 
+standard B-22
+clerical I-22
+procedure I-22
+ 
+standard B-22
+clerical I-22
+procedures I-22
+ 
+store B-22
+ 
+stored B-22
+ 
+symmetric B-22
+ 
+technique B-22
+ 
+techniques B-22
+ 
+threat B-22
+ 
+threats B-22
+ 
+trojan B-22
+ 
+virus B-22
+ 
+vulnerability B-22
+ 
+vulnerabilities B-22
+ 
+white B-22
+hat I-22
+ 
+white B-22
+hat I-22
+hacking I-22
+ 
+white-hat B-22
+ 
+white-hat B-22
+hacking I-22
+ 
+worm B-22
+ 
+write B-22
+protect I-22
+ 
+write B-22
+protect I-22
+mechanism I-22
+ 
+write-protect B-22
+ 
+write-protect B-22
+mechanism I-22
+ 
+address B-23
+bus I-23
+ 
+address B-23
+bus I-23
+width I-23
+ 
+ADC B-23
+ 
+addressable B-23
+memory I-23
+ 
+analogue B-23
+ 
+analogue B-23
+to I-23
+digital I-23
+ 
+analogue B-23
+to I-23
+digital I-23
+converter I-23
+ 
+DAC B-23
+ 
+digital B-23
+ 
+digital B-23
+age I-23
+ 
+digital B-23
+camera I-23
+ 
+digital B-23
+representation I-23
+ 
+digital B-23
+technology I-23
+ 
+digital B-23
+technologies I-23
+ 
+digital B-23
+to I-23
+analogue I-23
+ 
+digital B-23
+to I-23
+analogue I-23
+converter I-23
+ 
+signal B-23
+ 
+signals B-23
+ 
+academic B-24
+ 
+academic B-24
+writing I-24
+ 
+study B-24
+ 
+study B-24
+skills I-24
+ 
+time B-24
+management I-24
+ 
+university B-24
+ 
+artificial B-25
+intelligence I-25
+ 
+machine B-25
+learning I-25
+ 
+neural B-25
+ 
+neural B-25
+network I-25
+ 
+neural B-25
+networks I-25
+ 
+prediction B-25
+ 
+predictions B-25
+ 
+robotics B-25
+ 
+test B-25
+data I-25
+ 
+train B-25
+data I-25
+ 
+business B-26
+ 
+client B-26
+ 
+clients B-26
+ 
+commerce B-26
+ 
+e-commerce B-26
+ 
+ecommerce B-26
+ 
+economics B-26
+ 
+enterprise B-26
+ 
+industry B-26
+ 
+online B-26
+business I-26
+ 
+<a> B-27
+ 
+<body> B-27
+ 
+<div> B-27
+ 
+<form> B-27
+ 
+<h1> B-27
+ 
+<head> B-27
+ 
+<html> B-27
+ 
+<img> B-27
+ 
+<input> B-27
+ 
+<li> B-27
+ 
+<link> B-27
+ 
+<ol> B-27
+ 
+<p> B-27
+ 
+<script> B-27
+ 
+<title> B-27
+ 
+<ul> B-27
+ 
+</a> B-27
+ 
+</body> B-27
+ 
+</div> B-27
+ 
+</form> B-27
+ 
+</h1> B-27
+ 
+</head> B-27
+ 
+</html> B-27
+ 
+</img> B-27
+ 
+</input> B-27
+ 
+</li> B-27
+ 
+</link> B-27
+ 
+</ol> B-27
+ 
+</p> B-27
+ 
+</script> B-27
+ 
+</title> B-27
+ 
+</ul> B-27
+ 
+alert B-27
+box I-27
+ 
+background-color B-27
+ 
+border-color B-27
+ 
+border-style B-27
+ 
+border-width B-27
+ 
+cascading B-27
+style I-27
+sheets I-27
+ 
+color B-27
+ 
+contemporary B-27
+wireless I-27
+technologies I-27
+ 
+contemporary B-27
+wireless I-27
+technology I-27
+ 
+CSS B-27
+ 
+digital B-27
+certificate I-27
+ 
+digital B-27
+certificates I-27
+ 
+DNS B-27
+ 
+domain B-27
+ 
+domain B-27
+name I-27
+ 
+domain B-27
+name I-27
+server I-27
+system I-27
+ 
+exploitation B-27
+ 
+File B-27
+Transfer I-27
+Protocol I-27
+ 
+font-family B-27
+ 
+font-size B-27
+ 
+FQDN B-27
+ 
+FTP B-27
+ 
+fully B-27
+qualified I-27
+domain I-27
+name I-27
+ 
+gateway B-27
+ 
+height B-27
+ 
+hex B-27
+ 
+hex B-27
+colour I-27
+ 
+hex B-27
+colours I-27
+ 
+HTML B-27
+ 
+HTTP B-27
+ 
+HTTPS B-27
+ 
+hyper B-27
+text I-27
+markup I-27
+language I-27
+ 
+hyper B-27
+text I-27
+mark-up I-27
+language I-27
+ 
+hyper-text B-27
+markup I-27
+language I-27
+ 
+hyper-text B-27
+mark-up I-27
+language I-27
+ 
+hypertext B-27
+markup I-27
+language I-27
+ 
+hypertext B-27
+mark-up I-27
+language I-27
+ 
+hyper B-27
+text I-27
+transfer I-27
+protocol I-27
+ 
+hyper-text B-27
+tranfer I-27
+protocol I-27
+ 
+Hypertext B-27
+Transfer I-27
+Protocol I-27
+ 
+hyper B-27
+text I-27
+transfer I-27
+protocol I-27
+secure I-27
+ 
+hyper-text B-27
+tranfer I-27
+protocol I-27
+secure I-27
+ 
+Hypertext B-27
+Transfer I-27
+Protocol I-27
+Secure I-27
+ 
+internet B-27
+ 
+internet B-27
+structure I-27
+ 
+intranet B-27
+ 
+JavaScript B-27
+ 
+JavaScript B-27
+Object I-27
+ 
+JavaScript B-27
+Object I-27
+Notation I-27
+ 
+JS B-27
+ 
+search B-27
+ 
+search B-27
+engine I-27
+ 
+search B-27
+engine I-27
+indexing I-27
+ 
+search B-27
+engines I-27
+ 
+stateful B-27
+inspection I-27
+ 
+style B-27
+attribute I-27
+ 
+uniform B-27
+resource I-27
+locator I-27
+ 
+URL B-27
+ 
+URLs B-27
+ 
+v4 B-27
+ 
+v6 B-27
+ 
+web B-27
+ 
+web B-27
+browser I-27
+ 
+web B-27
+browsers I-27
+ 
+Web B-27
+CRUD I-27
+Applications I-27
+ 
+web B-27
+page I-27
+ 
+web B-27
+page I-27
+resources I-27
+ 
+web B-27
+server I-27
+ 
+width B-27
+ 
+world B-27
+wide I-27
+ 
+world B-27
+wide I-27
+web I-27
+ 
+world-wide B-27
+ 
+world-wide B-27
+communications I-27
+ 
+world-wide B-27
+web I-27
+ 
+animation B-28
+ 
+bitmap B-28
+ 
+bitmapped B-28
+graphics I-28
+ 
+bitmaps B-28
+ 
+colour B-28
+depth I-28
+ 
+compression B-28
+ 
+compression B-28
+ratio I-28
+ 
+compression B-28
+time I-28
+ 
+compressions B-28
+ 
+computer B-28
+generated I-28
+graphics I-28
+ 
+convert B-28
+ 
+create B-28
+ 
+creative B-28
+ 
+creative B-28
+computing I-28
+ 
+decryption B-28
+ 
+graphic B-28
+ 
+graphics B-28
+ 
+image B-28
+ 
+image B-28
+representation I-28
+ 
+images B-28
+ 
+lossless B-28
+ 
+lossy B-28
+ 
+MIDI B-28
+ 
+music B-28
+representation I-28
+ 
+Musical B-28
+Instrument I-28
+Digital I-28
+Interface I-28
+ 
+Nyquist B-28
+ 
+Nyquist B-28
+theorem I-28
+ 
+representing B-28
+music I-28
+ 
+resolution B-28
+ 
+RLE B-28
+ 
+run B-28
+length I-28
+encoding I-28
+ 
+run-length B-28
+encoding I-28
+ 
+sample B-28
+resolution I-28
+ 
+sampling B-28
+rate I-28
+ 
+size B-28
+in I-28
+pixels I-28
+ 
+sound B-28
+ 
+visual B-28
+ 
+game B-29
+ 
+game B-29
+design I-29
+ 
+games B-29
+ 
+gaming B-29
+ 
+player B-29
+ 
+players B-29
+ 
+annotated B-30
+evidence I-30
+ 
+data B-30
+collection I-30
+ 
+describe B-30
+ 
+description B-30
+ 
+essential B-30
+features I-30
+ 
+evidence B-30
+ 
+explain B-30
+ 
+explanation B-30
+ 
+final B-30
+product I-30
+ 
+individual B-30
+system I-30
+function I-30
+ 
+investigation B-30
+ 
+justify B-30
+ 
+justification B-30
+ 
+maintenance B-30
+documentation I-30
+ 
+measurable B-30
+ 
+measurable B-30
+success I-30
+criteria I-30
+ 
+measuremnt B-30
+ 
+measures B-30
+ 
+objective B-30
+ 
+objectives B-30
+ 
+outcome B-30
+ 
+outcomes B-30
+ 
+own B-30
+performance I-30
+ 
+people B-30
+ 
+person B-30
+ 
+phase B-30
+ 
+phased B-30
+ 
+phases B-30
+ 
+post B-30
+development I-30
+ 
+post B-30
+prototype I-30
+ 
+post-development B-30
+ 
+post-prototype B-30
+ 
+produce B-30
+ 
+product B-30
+ 
+project B-30
+ 
+project B-30
+strengths I-30
+ 
+project B-30
+weaknesses I-30
+ 
+proposed B-30
+project I-30
+ 
+proposed B-30
+solution I-30
+ 
+purpose B-30
+ 
+remedial B-30
+action I-30
+ 
+report B-30
+ 
+requirement B-30
+ 
+requirements B-30
+ 
+research B-30
+ 
+robustness B-30
+ 
+similar B-30
+ 
+similar B-30
+problem I-30
+ 
+similar B-30
+problems I-30
+ 
+solution B-30
+ 
+solution B-30
+requirements I-30
+ 
+solutions B-30
+ 
+specific B-30
+purpose I-30
+ 
+specific B-30
+suggestion I-30
+ 
+specific B-30
+suggestions I-30
+ 
+specification B-30
+ 
+specified B-30
+ 
+specify B-30
+ 
+strengths B-30
+ 
+success B-30
+criteria I-30
+ 
+successful B-30
+features I-30
+ 
+suggestions B-30
+ 
+suggestions B-30
+ 
+suitability B-30
+ 
+suitable B-30
+ 
+suitable B-30
+hardware I-30
+ 
+suitable B-30
+software I-30
+ 
+test B-30
+evidence I-30
+ 
+test B-30
+plan I-30
+ 
+test B-30
+run I-30
+ 
+test-run B-30
+ 
+testing B-30
+evidence I-30
+ 
+testing B-30
+process I-30
+ 
+understand B-30
+ 
+usability B-30
+features I-30
+ 
+usability B-30
+testing I-30
+ 
+user B-30
+documentation I-30
+ 
+user B-30
+feedback I-30
+ 
+user B-30
+feed-back I-30
+ 
+user B-30
+feedback I-30
+ 
+weaknesses B-30
+ 
+whole B-30
+system I-30
+ 
+working B-30
+specification I-30
+ 
+computer B-31
+science I-31
+ 
+degree B-31
+ 
+computer B-31
+science I-31
+degree I-31
+ 
+computer B-31
+science I-31
+module I-31
+ 
+computer B-31
+science I-31
+subject I-31
+ 
+scientific B-31
+ 
+computer B-32
+engineering I-32
+ 
+computer B-32
+engineering I-32
+degree I-32
+ 
+computer B-32
+engineering I-32
+module I-32
+ 
+computer B-32
+engineering I-32
+subject I-32
+ 
+engineering B-32
+ 
+computing B-33
+science I-33
+ 
+computing B-33
+science I-33
+degree I-33
+ 
+computing B-33
+science I-33
+module I-33
+ 
+computing B-33
+science I-33
+subject I-33
+ 
+computing B-34
+ 
+computing B-34
+degree  I-34
+ 
+computing B-34
+module I-34
+ 
+computing B-34
+subject I-34
+ 
+computing B-34
+industry I-34
+ 
+developments B-34
+in I-34
+computing I-34
+ 
+elective B-35
+ 
+optional B-35
+ 
+other B-35
+ 
+other B-35
+module I-35
+ 
+other B-35
+modules I-35
+ 
+other B-35
+subject I-35
